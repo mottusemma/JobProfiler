@@ -34,9 +34,9 @@ Oma arvutustes oleme arvestanud teie soo ja vanusega. Täpsemalt oleme võrrelnu
 
 **Miks me küsisime just neid küsimusi?**
 
-Valisime isiksuseomadusi kirjeldavad väited selliselt, et saaksime tõhusalt hinnata inimeste Suure Viisiku isiksuseomadusi. Just neid omadusi kasutab oma töös enamik isiksuseuurijaid, sealhulgas ametialaste erinevuste kirjeldamiseks. Küsisime ka mõningaid lisaküsimusi, mille vastuste osas kalduvad olema suurimad ametitevahelised erinevused. Seda kõike on põhjalikumalt selgitatud siin: https://osf.io/preprints/psyarxiv/ajvg2.
+Valisime isiksuseomadusi kirjeldavad väited selliselt, et saaksime tõhusalt hinnata inimeste Suure Viisiku isiksuseomadusi. Just neid omadusi kasutab oma töös enamik isiksuseuurijaid, sealhulgas ametialaste erinevuste kirjeldamiseks. Küsisime ka mõningaid lisaküsimusi, mille vastuste osas kalduvad olema suurimad ametitevahelised erinevused. Seda kõike on põhjalikumalt selgitatud [siin](https://osf.io/preprints/psyarxiv/ajvg2).
 
 **Kas rakenduse lähtekood ja andmed on avatud?**
 
-Jah. Lähtekood on saadaval Gitlabis ja täielikult anonüümsed andmed saavad olema avalikult saadaval Open Science Frameworki kaudu.
+Jah. Lähtekood on saadaval [GitHubis](https://github.com/mottusemma/JobProfiler) ja täielikult anonüümsed andmed saavad olema avalikult saadaval [Open Science Frameworki](https://osf.io/mvzd4/) kaudu.
 

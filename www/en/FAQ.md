@@ -8,7 +8,7 @@ No! **This app does not provide occupational counselling**. Such counselling can
 
 There are several reasons for this.
 
-- Psychological testing is never perfectly accurate. There are inevitable errors in the testing process; for example, when completing questionnaires, we sometimes choose a wrong response option or are simply not unsure how to respond. So, you could get a slightly different result when taking the test again, although most people get quite similar results most of the time. If unsure, we recommend that you take the test again using the link above and look for common themes in the feedback. The feedback that you keep getting is more likely to be accurate than the feedback you only see once.  
+- Psychological testing is never perfectly accurate. There are inevitable errors in the testing process; for example, when completing questionnaires, we sometimes choose a wrong response option or are simply not unsure how to respond. So, you could get a slightly different result when taking the test again, although most people get quite similar results most of the time. If unsure, we recommend that yosiinu take the test again using the link above and look for common themes in the feedback. The feedback that you keep getting is more likely to be accurate than the feedback you only see once.  
 - Psychological testing provides a different perspective on personality traits than the "naked eye" of self-reflection. Your answers are compared to those of thousands of other people, so the results do not only depend on how you described yourself, but also on how many other people described themselves – something you cannot accurately know beforehand. This is not a limitation but a strength of testing because it is possible to learn about our personalities by systematically comparing us to others.
 - Psychological testing summarizes broader themes in your personality and is not meant to get every detail right. Individual people are too complex to fully describe with any assessment.
 
@@ -34,8 +34,8 @@ In our calculations, we have taken your gender and age into account. Specificall
 
 **Why did we ask these particular questions?**
 
-The statements describing various personality characteristics were selected to allow us to efficiently assess people's Big Five personality traits used by most personality scientists for various purposes, including describing occupational differences. We also asked some additional questions that tend to show the largest differences in how people doing different jobs respond. This is explained in more detail here: https://osf.io/preprints/psyarxiv/ajvg2.
+The statements describing various personality characteristics were selected to allow us to efficiently assess people's Big Five personality traits used by most personality scientists for various purposes, including describing occupational differences. We also asked some additional questions that tend to show the largest differences in how people doing different jobs respond. This is explained in more detail [here](https://osf.io/preprints/psyarxiv/ajvg2).
 
 **Are the app source code and data open?**
 
-Yes. The source code will be available on Gitlab and the fully anonymous data will be publicly available thought the Open Science Framework.
+Yes. The source code will be available on [Gitlab](https://github.com/mottusemma/JobProfiler) and the fully anonymous data will be publicly available thought the [Open Science Framework](https://osf.io/mvzd4/).

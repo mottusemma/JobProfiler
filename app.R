@@ -147,8 +147,7 @@ results <- tabPanel("resultsTab",
                                     uiOutput("FAQ")
                                   )),
                         nav_spacer()
-                      ),
-                      downloadButton("save", label = NULL)
+                      )
 ))
 
 # Application UI
@@ -458,10 +457,12 @@ server <- function(input, output, session) {
   
   output$big5table <- renderTable({
     big5 <- read_tsv(paste0("www/", lang(), "/big5.tsv", collapse=""), col_names = FALSE)
-    data.frame(
-      Trait = big5[[1]], 
-      Score = ifelse(c(f()$B5scores)<(-0.67), getText("fb44"), ifelse(c(f()$B5scores)<=0.67, getText("fb45"), getText("fb46")))
-    )},
+    df <- data.frame(
+      big5[[1]], 
+      ifelse(c(f()$B5scores)<(-0.67), getText("fb44"), ifelse(c(f()$B5scores)<=0.67, getText("fb45"), getText("fb46")))
+    )
+    names(df) <- c(getText("trait"), getText("score"))
+    df},
     align = 'l')
   
   output$share <- renderUI({

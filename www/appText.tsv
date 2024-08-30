@@ -68,4 +68,5 @@ int84	Up to ten years	Kuni kümme aastat
 int85	More than ten years	Üle kümne aasta
 dismiss	Close	Sulgege
 about	About the app	Loe lähemalt
-save	Download results	Salvestage tulemused
+trait	Trait	Omadus
+score	Score	Skoor

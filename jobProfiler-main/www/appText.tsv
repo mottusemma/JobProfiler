@@ -1,0 +1,71 @@
+ID	en	et
+sc1	Very false	Täiesti vale
+sc2	Quite false	Üsna vale
+sc3	Slightly false	Pigem vale
+sc4	Slightly true	Pigem õige
+sc5	Quite true	Üsna õige
+sc6	Very true	Täiesti õige
+comp1	Have you previously used this app?	Kas olete varem seda rakendust kasutanud?
+comp2	Did somebody send you the link to this app?	Kas keegi saatis teile selle rakenduse lingi?
+comp3	Who was the link shared by?	Kes saatis teile selle lingi?
+disc1	Contact us: rene.mottus@ut.ee	Võtke ühendust: rene.mottus@ut.ee
+int1	The gender you identify with the most	Millist sugu te endale omasemaks peate?
+int2	Your age	Teie vanus
+int3	Which country do you live in?	Mis maal te elate?
+int4	Do you have a job?	Kas te töötate?
+int5	What is your job title?	Millist tööd te teete?
+int6	Are you happy with your job?	Kas te olete oma tööga rahul?
+mat1	Now we ask you to rate 74 statements about your personality.	Nüüd palume teil hinnata 74 isiksuseomadusi kirjeldavat väidet.
+mat2	Please rate how well each statement describes you generally.	Palun hinnake, kui hästi iga väidete kirjeldab seda, milline te tavaliselt olete.
+mat3	Please answer as carefully and honestly as you can. The results’ accuracy depends on the responses.	Palun vastake nii põhjalikult ja ausalt kui saate. Tulemuste tõepärasus sõltub antud vastustest.
+mat4	If on mobile, you may wish to rotate the screen for a better view.	Telefoni kasutades telefoni pööramine vastamise mugavamaks teha.
+fb1	Information	Informatsioon
+fb21	Job list	Tööde nimistu
+fb22	People doing these jobs tended to give the most or least similar responses to yours.	Neid töid tegevad inimesed kalduvad andma vastuseid, mis kõige enam või kõige vähem sarnanevad teie vastustega
+fb23	Jobs with the most similar people	Ametid teile kõige enam sarnasemate inimestega
+fb24	Jobs with the least similar people	Ametid teile kõige vähem sarnasemate inimestega
+fb31	Job map	Tööde kaart
+fb32	Average job incumbents according to their personality profiles	Ametite esindajad keskmiste isiksuseprofiilide põhjal
+fb33	Hover over the dots or press on them to see job titles.	Liikuge hiirega üle punktide või vajutage neile, et näha tööde nimesid.
+here	Why am I here?	Miks ma olen siin?
+whatB5	What is the Big Five?	Mis on Suur Viisik?
+fb41	Big Five	Suur Viisik
+fb42	Your Big Five trait scores	Teie Suure Viisiku skoorid
+fb43	These traits are usually used by scientists to describe differences among people.	Teadlased kasutavad tihti neid omadusi inimeste isiksusest ülevaate andmiseks.
+fb51	Share	Jagage
+fb6	FAQ	KKK
+int7	This app is for people aged between 18 and 70.	See rakendus sobib kasutamiseks inimestele vanuses 18 kuni 70 aastat.
+mod1	Please read the information sheet before exploring your results.	Enne tulemuste vaatamist lugege palun infolehte.
+mod2	Results	Tulemused
+fb35	You	Teie 
+fb44	Low	Madal
+fb45	Medium	Keskmine
+fb46	High	Kõrge
+fb52	Feel free to share this application with others using this unique link:	Soovi korral jagage palun rakendust teisega, kasutades seda unikaalset linki:
+fb53	This unique link allows us to connect your responses, even though you both remain anonymous. This is useful for future scientific work such as seeing how friends or family members share personality traits or occupational choices.	See unikaalne link aitab meile teie vastused kokku viia, ehkki te mõlemad jääte anonüümseks. See on kasulik teadustöös, kui soovime hinnata sugulaste ja sõprade sarnasust isiksuseomaduste ja ametivaliku osas.
+yes	Yes	Jah
+no	No	Ei
+sel	Select...	Valige …
+comp21	Parent	Vanem
+comp22	Child	Laps
+comp23	Other relative	Muu sugulane
+comp24	Partner	Partner
+comp25	Friend	Sõber
+comp26	Colleague	Kolleeg
+comp27	Other	Muu
+fem	Female	Naine
+male	Male	Mees
+type	Start typing...	Alustage trükkimist …
+subm	Submit	Esitage
+retake	Retake the survey	Vastake küsimustele uuesti
+next	Next	Edasi
+cont	Continue	Jätkage
+int8	How many years have you been doing your current job?	Kui mitu aastate olete oma praegust tööd teinud?
+int81	Less than a year	Vähem kui aasta
+int82	One to two years	Üks kuni kaks aastat
+int83	Up to five years	Kuni viis aastat
+int84	Up to ten years	Kuni kümme aastat
+int85	More than ten years	Üle kümne aasta
+dismiss	Close	Sulgege
+about	About the app	Loe lähemalt
+save	Download results	Salvestage tulemused

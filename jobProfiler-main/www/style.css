@@ -1,0 +1,43 @@
+button {
+  width: max-content;
+}
+
+[role="radiogroup"] input[type=radio], .radioMatrixInput input[type=radio]{
+  width: 25px;
+  height: 25px;
+}
+
+body {
+  background-color: ghostwhite;
+  margin: 10px auto;
+}
+
+.header {
+  text-align: center;
+}
+
+.control-label {
+  font-weight: 450;
+}
+
+.card {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.pages {
+  margin: auto;
+  max-width: 1000px;
+}
+
+.radioMatrixInput {
+  margin-left: -20px;
+}
+
+#padd {
+  height: 100px;
+}
+
+#logo {
+  margin-bottom: 10px;
+}

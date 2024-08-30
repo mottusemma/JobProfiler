@@ -1,0 +1,264 @@
+group	job
+Armed Forces	Armed Forces Occupations
+Managers	Managers
+Managers	Self-empolyed/Sole Proprietors
+Managers	Unspecified Heads of Department
+Managers	Self-employed/Entrepreneurs
+Managers	Unspecified Board Members
+Managers	Unspecified Team Leaders
+Managers	Unspecified Deputy Managers
+Managers	Maintenance Managers/Advisers Not Elsewhere Classified
+Managers	Senior Government Officials
+Managers	Finance Managers
+Managers	Human Resource Managers
+Managers	Business Services and Administration Managers Not Elsewhere Classified
+Managers	Sales and Marketing Managers
+Managers	Advertising and Public Relations Managers
+Managers	Research and Development Managers
+Managers	Manufacturing Managers
+Managers	Construction Managers
+Managers	Supply, Distribution and Related Managers
+Managers	Information and Communications Technology Services Managers
+Managers	Child Care Services Managers
+Managers	Health Services Managers
+Managers	Social Welfare Managers
+Managers	Education Managers
+Managers	Professional Services Managers Not Elsewhere Classified
+Managers	Hotel Managers
+Managers	Restaurant Managers
+Managers	Retail and Wholesale Trade Managers
+Managers	Sports, Recreation and Cultural Centre Managers
+Managers	Services Managers Not Elsewhere Classified
+Professionals	Unspecified Project Managers
+Professionals	Unspecified Professionals
+Professionals	Unspecified Analysts
+Professionals	Unspecified Consultants
+Professionals	Unspecified Advisors
+Professionals	Unspecified Product Managers
+Professionals	Unspecified Quality Specialists
+Professionals	Chemists
+Professionals	Mathematicians, Actuaries and Statisticians
+Professionals	Biologists, Botanists, Zoologists and Related Professionals
+Professionals	Farming, Forestry and Fisheries Advisers (Agronomists only)
+Professionals	Environmental Protection Professionals
+Professionals	(Unspecified) Engineering Professionals
+Professionals	Industrial and Production Engineers
+Professionals	Civil Engineers
+Professionals	Mechanical Engineers
+Professionals	Chemical Engineers
+Professionals	Engineering Professionals Not Elsewhere Classified
+Professionals	Electrical Engineers
+Professionals	Electronics Engineers
+Professionals	Building Architects
+Professionals	Landscape Architects
+Professionals	Product and Garment Designers
+Professionals	Town and Traffic Planners
+Professionals	Cartographers and Surveyors
+Professionals	Graphic and Multimedia Designers
+Professionals	Health Professionals (unspecified)
+Professionals	Medical Doctors (unspecified)
+Professionals	Generalist Medical Practitioners
+Professionals	Specialist Medical Practitioners
+Professionals	Nursing Professionals
+Professionals	Midwifery Professionals
+Professionals	Veterinarians
+Professionals	Dentists
+Professionals	Pharmacists
+Professionals	Physiotherapists
+Professionals	Audiologists and Speech Therapists
+Professionals	Health Professionals Not Elsewhere Classified
+Professionals	Unspecified Teachers
+Professionals	University and Higher Education Teachers
+Professionals	Research Professionals Not Elsewhere Classified
+Professionals	Vocational Education Teachers
+Professionals	Secondary Education Teachers
+Professionals	Primary School Teachers
+Professionals	Early Childhood Educators
+Professionals	Other Language, Music, Arts Teachers (hobby schools, private tutition)
+Professionals	Education Methods Specialists
+Professionals	Special Needs Teachers
+Professionals	Language Teachers
+Professionals	Teaching Professionals Not Elsewhere Classified
+Professionals	Teaching/Education Professionals Not Elsewhere Classified
+Professionals	Accountants
+Professionals	Financial and Investment Advisers
+Professionals	Financial Analysts
+Professionals	Management and Organization Analysts
+Professionals	Policy Administration Professionals
+Professionals	Personnel and Careers Professionals
+Professionals	Training and Staff Development Professionals
+Professionals	Advertising and Marketing Professionals
+Professionals	Public Relations Professionals
+Professionals	Systems Analysts
+Professionals	Software Developers
+Professionals	Web and Multimedia Developers
+Professionals	Software and Applications Developers and Analysts Not Elsewhere Classified (Software Testers)
+Professionals	Database Designers and Administrators
+Professionals	Systems Administrators
+Professionals	Database and Network Professionals Not Elsewhere Classified
+Professionals	Lawyers
+Professionals	Judges
+Professionals	Legal Professionals
+Professionals	Archivists and Curators
+Professionals	Librarians and Related Information Professionals
+Professionals	Economists
+Professionals	Psychologists
+Professionals	Social Work and Counselling Professionals
+Professionals	Religious Professionals
+Professionals	Unspecified Editors (text, book etc.)
+Professionals	Authors and Related Writers
+Professionals	Journalists
+Professionals	Translators, Interpreters and Other Linguists
+Professionals	Visual Artists
+Professionals	Musicians, Singers and Composers
+Professionals	Film, Stage and Related Directors and Producers
+Professionals	Actors
+Technicians	Unspecified Associate Professionals
+Technicians	Unspecified Technicians
+Technicians	Unspecified Heads of Shifts
+Technicians	Unspecified Coordinators
+Technicians	Unspecified Laboratory Technicians/Assistants
+Technicians	Unspecified Inspectors
+Technicians	Unspecified Officials
+Technicians	Civil Engineering Technicians
+Technicians	Electrical Engineering Technicians
+Technicians	Mechanical Engineering Technicians
+Technicians	Draughtspersons
+Technicians	Mining, Manufacturing and Construction Supervisors
+Technicians	Manufacturing Supervisors
+Technicians	Construction Supervisors
+Technicians	Process Control Technicians
+Technicians	Life Science Technicians (excluding Medical)
+Technicians	Forestry Technicians
+Technicians	Ships’ Engineers
+Technicians	Ships’ Deck Officers and Pilots
+Technicians	Aircraft Pilots and Related Associate Professionals
+Technicians	Air Traffic Controllers
+Technicians	Medical Imaging and Therapeutic Equipment Technicians
+Technicians	Medical and Pathology Laboratory Technicians
+Technicians	Medical and Dental Prosthetic Technicians
+Technicians	Dental Assistants and Therapists
+Technicians	Dispensing Opticians
+Technicians	Physiotherapy Technicians and Assistants (Massagists)
+Technicians	Medical Assistants
+Technicians	Environmental and Occupational Health Inspectors and Associates
+Technicians	Ambulance Workers
+Technicians	Credit and Loans Officers
+Technicians	Accounting Associate Professionals
+Technicians	Statistical, Mathematical and Related Associate Professionals
+Technicians	Valuers and Loss Assessors
+Technicians	Insurance Representatives
+Technicians	Commercial Sales Representatives
+Technicians	Buyers
+Technicians	Clearing and Forwarding Agents
+Technicians	Conference and Event Planners
+Technicians	Employment Agents and Contractors
+Technicians	Real Estate Agents and Property Managers
+Technicians	Office Supervisors
+Technicians	Administrative and Executive Secretaries
+Technicians	Government Regulatory Associate Professionals (unspecified)
+Technicians	Customs and Border Inspectors
+Technicians	Police Inspectors and Detectives
+Technicians	Government Regulatory Associate Professionals Not Elsewhere Classified
+Technicians	Legal and Related Associate Professionals
+Technicians	Social Work Associate Professionals
+Technicians	Sports Coaches, Instructors and Officials
+Technicians	Fitness and Recreation Instructors and Programme Leaders
+Technicians	Photographers
+Technicians	Interior Designers and Decorators
+Technicians	Chefs
+Technicians	Other Artistic and Cultural Associate Professionals
+Technicians	Information and Communications Technology Operations Technicians
+Technicians	Broadcasting and Audiovisual Technicians
+Ametnikud	General and Keyboard Clerks (unspecified)
+Ametnikud	Secretaries (general)
+Ametnikud	Data Entry Clerks
+Ametnikud	Unspecified Customer Services Clerks
+Ametnikud	Bank Tellers
+Ametnikud	Debt Collectors and Related Workers
+Ametnikud	Travel Consultants and Clerks
+Ametnikud	Hotel Receptionists
+Ametnikud	Inquiry Clerks
+Ametnikud	Receptionists (general)
+Ametnikud	Survey and Market Research Interviewers
+Ametnikud	Accounting and Bookkeeping Clerks
+Ametnikud	Payroll Clerks
+Ametnikud	Stock Clerks
+Ametnikud	Transport Clerks
+Ametnikud	Mail Carriers and Sorting Clerks
+Ametnikud	Filing and Copying Clerks
+Ametnikud	Personnel Clerks
+Teenindus- ja müügitöötajad	Travel Attendants and Travel Stewards
+Teenindus- ja müügitöötajad	Travel Guides
+Teenindus- ja müügitöötajad	Cook
+Teenindus- ja müügitöötajad	Waiters
+Teenindus- ja müügitöötajad	Hairdressers
+Teenindus- ja müügitöötajad	Beauticians and Related Workers
+Teenindus- ja müügitöötajad	Cleaning and Housekeeping Supervisors in Offices, Hotels and Other Establishments
+Teenindus- ja müügitöötajad	Building Caretakers
+Teenindus- ja müügitöötajad	Pet Groomers and Animal Care Workers
+Teenindus- ja müügitöötajad	Driving Instructors
+Teenindus- ja müügitöötajad	Unspecified Sales Workers
+Teenindus- ja müügitöötajad	Stall and Market Salespersons
+Teenindus- ja müügitöötajad	Shop Sales Assistants
+Teenindus- ja müügitöötajad	Cashiers and Ticket Clerks
+Teenindus- ja müügitöötajad	Contact Centre Salespersons
+Teenindus- ja müügitöötajad	Sales Workers Not Elsewhere Classified
+Teenindus- ja müügitöötajad	Child Care Workers
+Teenindus- ja müügitöötajad	Teachers’ Aides
+Teenindus- ja müügitöötajad	Health Care Assistants
+Teenindus- ja müügitöötajad	Personal Care Workers in Health Services Not Elsewhere Classified
+Teenindus- ja müügitöötajad	Firefighters
+Teenindus- ja müügitöötajad	Police Officers
+Teenindus- ja müügitöötajad	Prison Guards
+Teenindus- ja müügitöötajad	Security Guards
+Agriculture, Forestry & Fishery	Gardeners; Horticultural and Nursery Growers
+Agriculture, Forestry & Fishery	Livestock and Dairy Producers
+Agriculture, Forestry & Fishery	Mixed Crop and Animal Producers
+Agriculture, Forestry & Fishery	Forestry and Related Workers
+Craft and Related Trades	Unspecified Craftsmen/Skilled Workers
+Craft and Related Trades	House Builders
+Craft and Related Trades	Carpenters and Joiners
+Craft and Related Trades	Building Finishers and Related Trades Workers (unspecified)
+Craft and Related Trades	Plumbers and Pipe Fitters
+Craft and Related Trades	Painters and Related Workers
+Craft and Related Trades	Spray Painters and Varnishers
+Craft and Related Trades	Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers
+Craft and Related Trades	Welders and Flame Cutters
+Craft and Related Trades	Sheet Metal Workers
+Craft and Related Trades	Toolmakers and Related Workers
+Craft and Related Trades	Machinery Mechanics and Repairers
+Craft and Related Trades	Motor Vehicle Mechanics and Repairers
+Craft and Related Trades	Handicraft Workers
+Craft and Related Trades	Pre-press Technicians
+Craft and Related Trades	Printers
+Craft and Related Trades	Building and Related Electricians
+Craft and Related Trades	Automotive Electricians
+Craft and Related Trades	Electronics Mechanics and Servicers
+Craft and Related Trades	Butchers
+Craft and Related Trades	Bakers, Pastry-cooks and Confectionery Makers
+Craft and Related Trades	Wood Treaters, Cabinet-makers and Related Trades Workers
+Craft and Related Trades	Cabinet-makers and Related Workers
+Craft and Related Trades	Tailors, Dressmakers, Furriers and Hatters
+Craft and Related Trades	Garment and Related Patternmakers and Cutters
+Craft and Related Trades	Sewing, Embroidery and Related Workers
+Craft and Related Trades	Shoemakers and Related Workers
+Craft and Related Trades	Product Graders and Testers (excluding Foods and Beverages)
+Machine Operators & Assemblers	Unspecified Operators
+Machine Operators & Assemblers	Stationary Plant and Machine Operators
+Machine Operators & Assemblers	Electrical and Electronic Equipment Assemblers
+Machine Operators & Assemblers	Assemblers Not Elsewhere Classified
+Machine Operators & Assemblers	Car, Taxi and Van Drivers
+Machine Operators & Assemblers	Bus and Tram Drivers
+Machine Operators & Assemblers	Heavy Truck and Lorry Drivers
+Machine Operators & Assemblers	Mobile Farm and Forestry Plant Operators
+Machine Operators & Assemblers	Earthmoving and Related Plant Operators
+Machine Operators & Assemblers	Crane, Hoist and Related Plant Operators
+Machine Operators & Assemblers	Ships’ Deck Crews and Related Workers
+Elementary Occupations	Elementary Occupations
+Elementary Occupations	Domestic, Hotel and Office Cleaners and Helpers
+Elementary Occupations	Garden and Horticultural Labourers
+Elementary Occupations	Manufacturing Labourers
+Elementary Occupations	Transport and Storage Labourers
+Elementary Occupations	Kitchen Helpers
+Elementary Occupations	Elementary Workers Not Elsewhere Classified

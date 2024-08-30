@@ -6,7 +6,7 @@ See rakendus aitab teil seda lähemalt uurida.
 
 See rakendus ei paku karjäärinõu, aga võib aidata teile enda kohta midagi uut teada saada.
 
-Vajutades Jätkage, kinnitate järgnevat:
+Vajutades Jätkake, kinnitate järgnevat:
 
 - teie vanus jääb vahemikku 18 kuni 70 aastat
 - teie tulemused põhinevad teie vastuste võrdlusel tuhandete teiste vastustega, aga iga inimene on unikaalne ja paljud detailid jäävad tähelepanuta

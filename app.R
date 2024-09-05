@@ -213,7 +213,7 @@ server <- function(input, output, session) {
     # Completion tab
     updateRadioGroupButtons("completion", label = getText("comp1"), choiceValues = c(TRUE, FALSE), choiceNames = getText(c("yes", "no")), selected = character(0), session = session)
     updateRadioGroupButtons("sharedYN", label = getText("comp2"), choiceValues = c("Yes", "No"), choiceNames = getText(c("yes", "no")), selected = character(0), session = session)
-    updateSelectizeInput("sharedBy", label = getText("comp3"), choices = c("", getText(lapply(c(1:7), function(n) paste0("comp2", n, collapse="")))), options = list(placeholder = getText("sel")), session = session)
+    updateSelectizeInput("sharedBy", label = getText("comp3"), choices = c("", getText(lapply(c(1:9), function(n) paste0("comp2", n, collapse="")))), options = list(placeholder = getText("sel")), session = session)
     # Intro tab
     updateRadioGroupButtons("gender", getText("int1"), choiceValues = c("Female", "Male"), choiceNames = getText(c("fem", "male")), selected = character(0), session = session)
     updateNumericInput("age", label = getText("int2"), session = session)

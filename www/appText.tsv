@@ -18,7 +18,7 @@ int6	Are you happy with your job?	Kas te olete oma tööga rahul?
 mat1	Now we ask you to rate 74 statements about your personality.	Nüüd palume teil hinnata 74 isiksuseomadusi kirjeldavat väidet.
 mat2	Please rate how well each statement describes you generally.	Palun hinnake, kui hästi iga väidete kirjeldab seda, milline te tavaliselt olete.
 mat3	Please answer as carefully and honestly as you can. The results’ accuracy depends on the responses.	Palun vastake nii põhjalikult ja ausalt kui saate. Tulemuste tõepärasus sõltub antud vastustest.
-mat4	If on mobile, you may wish to rotate the screen for a better view.	Telefoni kasutades telefoni pööramine vastamise mugavamaks teha.
+mat4	If on mobile, you may wish to rotate the screen for a better view.	Telefoni kasutades võib telefoni pööramine vastamise mugavamaks teha.
 fb1	Information	Informatsioon
 fb21	Job list	Tööde nimistu
 fb22	People doing these jobs tended to give the most or least similar responses to yours.	Neid töid tegevad inimesed kalduvad andma vastuseid, mis kõige enam või kõige vähem sarnanevad teie vastustega
@@ -48,11 +48,13 @@ no	No	Ei
 sel	Select...	Valige …
 comp21	Parent	Vanem
 comp22	Child	Laps
-comp23	Other relative	Muu sugulane
-comp24	Partner	Partner
-comp25	Friend	Sõber
-comp26	Colleague	Kolleeg
-comp27	Other	Muu
+comp23	Full sibling	Täisõde või täisvend
+comp24	Grandparent or grandchild	Vanavanem või lapselaps
+comp25	Other relative	Muu sugulane
+comp26	Partner	Partner
+comp27	Friend	Sõber
+comp28	Colleague	Kolleeg
+comp29	Other	Muu
 fem	Female	Naine
 male	Male	Mees
 type	Start typing...	Alustage trükkimist …

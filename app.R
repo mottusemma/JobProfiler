@@ -471,7 +471,10 @@ server <- function(input, output, session) {
       tags$p(getText("fb52")),
       tags$p(paste0("https://apps.psych.ut.ee/JobProfiler?reference=", ownSession, collapse="")),
       tags$br(),
-      tags$small(getText("fb53"))
+      tags$p(getText("fb53")),
+      tags$p("https://apps.psych.ut.ee/JobProfiler?reference=publicshare"),
+      tags$br(),
+      tags$small(getText("fb54"))
     )
   })
   

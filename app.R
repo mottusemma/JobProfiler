@@ -16,6 +16,7 @@ library(shinyFeedback)
 library(stringr)
 library(markdown)
 library(rlang)
+library(rclipboard)
 
 ### READING IN FILES / DATAFRAME -> MATRIX
 
@@ -155,6 +156,7 @@ ui <- page_fluid(
   tags$head(includeCSS("www/style.css")),
   theme = bs_theme(bootswatch = "minty"),
   shinyFeedback::useShinyFeedback(),
+  rclipboardSetup(),
   tabsetPanel(id = "appTabs", type = "hidden", selected = "languageTab",
               language,
               disclaimer,
@@ -468,11 +470,9 @@ server <- function(input, output, session) {
   output$share <- renderUI({
     tagList(
       tags$br(),
-      tags$p(getText("fb52")),
-      tags$p(paste0("https://apps.psych.ut.ee/JobProfiler?reference=", ownSession, collapse="")),
+      rclipButton(inputId = "sharePriv", label = getText("fb52"), clipText = paste0("https://apps.psych.ut.ee/JobProfiler?reference=", ownSession, collapse="")),
       tags$br(),
-      tags$p(getText("fb53")),
-      tags$p("https://apps.psych.ut.ee/JobProfiler?reference=publicshare"),
+      rclipButton(inputId = "sharePub", label = getText("fb53"), clipText = "https://apps.psych.ut.ee/JobProfiler?reference=publicshare"),
       tags$br(),
       tags$small(getText("fb54"))
     )

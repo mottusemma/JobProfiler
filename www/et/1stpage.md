@@ -13,6 +13,6 @@ Vajutades Jätkake, kinnitate järgnevat:
 - iga tööd võivad edukalt teha väga erinevad inimesed
 - tulemused ei näita, kas te olete mõne töö jaoks sobiv või vähem sobiv
 - peaksite tulemusi ignoreerima, kui need ei tundu teile õiged
-- teie vastused on täiesti anonüümsed ja me muudame need avalikult kättesaadavaks teadus- ja arendustöö eesmärgil pärast Esitage vajutamist
+- teie vastused on anonüümsed ning me muudame need avalikult kättesaadavaks teadus- ja arendustöö eesmärgil pärast Esitage vajutamist
 - võite rakenduse igal hetkel sulgeda
 - rakendus on hetkel beeta testimise faasis

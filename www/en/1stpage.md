@@ -13,6 +13,6 @@ By clicking Continue, you acknowledge that
 * each job can be successfully performed by very different people
 * the results do not show whether you are fit or unfit for particular jobs
 * you should disregard the results if they don't make sense
-* your responses are completely anonymous, and we make them publicly available for research and development when you click Submit
-* you close the app at any point
+* your responses are anonymous, and we make them publicly available for research and development when you click Submit
+* you can close the app at any point
 * the app is currently in the beta testing phase

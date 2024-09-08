@@ -470,11 +470,13 @@ server <- function(input, output, session) {
   output$share <- renderUI({
     tagList(
       tags$br(),
-      rclipButton(inputId = "sharePriv", label = getText("fb52"), clipText = paste0("https://apps.psych.ut.ee/JobProfiler?reference=", ownSession, collapse="")),
+      getText("fb52"),
+      rclipButton(inputId = "sharePriv", label = getText("fb53"), clipText = paste0("https://apps.psych.ut.ee/JobProfiler?reference=", ownSession, collapse="")),
       tags$br(),
-      rclipButton(inputId = "sharePub", label = getText("fb53"), clipText = "https://apps.psych.ut.ee/JobProfiler?reference=publicshare"),
+      getText("fb54"),
+      rclipButton(inputId = "sharePub", label = getText("fb55"), clipText = "https://apps.psych.ut.ee/JobProfiler?reference=publicshare"),
       tags$br(),
-      tags$small(getText("fb54"))
+      tags$small(getText("fb56"))
     )
   })
   

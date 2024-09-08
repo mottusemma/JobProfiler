@@ -41,9 +41,11 @@ fb35	You	Teie
 fb44	Low	Madal
 fb45	Medium	Keskmine
 fb46	High	Kõrge
-fb52	To share the app with a friend, colleague, partner, or relative, please use this unique link:	Rakendust sõbra, kolleegi, partneri või sugulasega jagades kasutage palun seda unikaalset linki:
-fb53	To share the app on social media, please use this link:	Sotsiaalmeedias jagamiseks kasutage palun seda linki:
-fb54	The unique link allows us to connect your responses, even though you both remain anonymous. This is useful for scientific work such as seeing how friends or family members share personality traits or occupational choices. The unique link will not be included in the public database.	Unikaalne link aitab meile teie vastused kokku viia, ehkki te mõlemad jääte anonüümseks. See on kasulik teadustöös, kui soovime hinnata sugulaste ja sõprade sarnasust isiksuseomaduste ja ametivaliku osas. Unikaalne link ei salvestu avalikku andmebaasi.
+fb52	To share the app with a close person, use this private link	Rakendust lähedase inimesega jagades kasutage seda privaatset linki
+fb53	Copy private link	Kopeerige privaatne link
+fb54	To share the app on social media, use this public link	Sotsiaalmeedias jagamiseks kasutage seda avalikku linki
+fb55	Copy public link	Kopeerige avalik link
+fb56	The private link allows us to connect your responses, even though you both remain anonymous. This is useful for scientific work to see how friends or family members share personality traits or occupational choices. The private link will not be included in the public database.	Privaatne link aitab meile teie vastused kokku viia, ehkki jääte mõlemad anonüümseks. See on kasulik teadustöös, et hinnata sugulaste ja sõprade sarnasust isiksuseomaduste ja ametivaliku osas. Privaatne link ei salvestu avalikku andmebaasi.
 yes	Yes	Jah
 no	No	Ei
 sel	Select...	Valige …

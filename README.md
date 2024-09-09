@@ -4,7 +4,7 @@ Emma Mõttus, emma.mottus\@ut.ee
 
 René Mõttus, rene.mottus\@ed.ac.uk
 
-University of Tartu, Institute of Psychology
+University of Tartu, Institute of Psychology; University of Edinburgh, Department of Psychology
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ The rest of the text (mostly larger Markdown text blocks) can be found in folder
     -   map.md
     
     -   about.md
-3.  Add a new column to each of the tsv files in www/ (appText, countries, occupationList, questions), using the same abbreviation as its header.
+3.  Add a new column to each of the tsv files in www/ (appText, countries, occupationList, questions, job), using the same abbreviation as its header.
 
 ### Tweaking text
 

@@ -155,7 +155,7 @@ results <- tabPanel("resultsTab",
 
 # Application UI
 ui <- page_fluid(
-  
+  tags$title("Your personality among different jobs"),
   tags$head(includeCSS("www/style.css")),
   theme = bs_theme(bootswatch = "minty"),
   shinyFeedback::useShinyFeedback(),
@@ -379,7 +379,7 @@ server <- function(input, output, session) {
   # purposes is defined in server.
   
   # Disclaimer page
-  output$logo <- renderImage(list(src=normalizePath(file.path("./www/UTEGCLogo.jpg")), width="300px", id="logo"), deleteFile = FALSE)
+  output$logo <- renderImage(list(src=normalizePath(file.path("./www/UTEGCLogo.jpg")), width="500px", id="logo"), deleteFile = FALSE)
   output$disc1 <- renderUI(
     includeMarkdown(paste0("www/", lang(), "/1stpage.md", collapse=""))
   )

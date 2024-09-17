@@ -1,6 +1,7 @@
 ### JobProfiler
 ### Emma Mõttus, emma.mottus@ut.ee; René Mõttus, rene.mottus@ed.ac.uk
 ### Institute of Psychology, University of Tartu
+### Department of Psychology, University of Edinburgh
 
 library(shiny)
 library(shinysurveys)
@@ -17,6 +18,7 @@ library(stringr)
 library(markdown)
 library(rlang)
 library(rclipboard)
+library(metathis)
 
 ### READING IN FILES / DATAFRAME -> MATRIX
 
@@ -153,6 +155,7 @@ results <- tabPanel("resultsTab",
 
 # Application UI
 ui <- page_fluid(
+  
   tags$head(includeCSS("www/style.css")),
   theme = bs_theme(bootswatch = "minty"),
   shinyFeedback::useShinyFeedback(),
@@ -168,7 +171,31 @@ ui <- page_fluid(
               surveyMat4,
               surveyMat5,
               results
-  ))
+  ),
+  ## Meta-data
+  meta() %>%
+    meta_general(
+      application_name = filter(appText, ID %in% "title") %>% pull(en),
+      description = filter(appText, ID %in% "descr") %>% pull(en),
+      robots = "index,follow",
+      generator = "R-Shiny",
+      subject = filter(appText, ID %in% "subject") %>% pull(en),
+      rating = "General",
+      referrer = "no-referrer"
+    ),
+  meta() %>%
+    meta_social(
+      title = filter(appText, ID %in% "title") %>% pull(en),
+      description = filter(appText, ID %in% "descr") %>% pull(en),
+      url = "https://pkg.garrickadenbuie.com/metathis",
+      #image = "http to png",
+      #image_alt = filter(appText, ID %in% "alt") %>% pull(en),
+      twitter_creator = "@renemottus",
+      twitter_card_type = "summary",
+      twitter_site = "@renemottus"
+    )
+  ##
+  )
 
 ### SERVER: UI responsiveness, saving responses...
 

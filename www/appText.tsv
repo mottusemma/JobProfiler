@@ -5,6 +5,10 @@ sc3	Slightly false	Pigem vale
 sc4	Slightly true	Pigem õige
 sc5	Quite true	Üsna õige
 sc6	Very true	Täiesti õige
+title	Your personality among different jobs	Teie isiksus ja erinevad tööd
+descr	See how your personality traits compare to people from over 250 jobs. Based on a large study of nearly 70,000 people.	Vaadake, kuidas teie isiksuseomadused sarnanevad üle 250 ameti pidajaile
+subject	Your personality traits compared to hundreds of jobs	Teie isiksuseomadused võrrelduna sadade ametitega
+alt	Which jobs match your personality traits?	Millised tööd sarnanevad teie isiksuseomadustele?
 comp1	Have you previously used this app?	Kas olete varem seda rakendust kasutanud?
 comp2	Did somebody send you the link to this app?	Kas keegi saatis teile selle rakenduse lingi?
 comp3	Who was the link shared by?	Kes saatis teile selle lingi?
@@ -75,3 +79,4 @@ dismiss	Close	Sulgege
 about	About the app	Loe lähemalt
 trait	Trait	Omadus
 score	Score	Skoor
+resfb	Does it make sense?	Kas tundub loogiline?

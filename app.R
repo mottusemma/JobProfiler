@@ -51,8 +51,9 @@ itemCors <- as.matrix(itemCors)
 # Pages in order of appearance
 language <- tabPanel("languageTab",
                      card(class="pages",
-                       radioGroupButtons("lang", choiceNames = langOptions$language, choiceValues = langOptions$suffix, individual = TRUE, selected = character(0)),
-                       actionButton("langOK", "OK", disabled = TRUE)
+                          imageOutput("applogo", height = "fit-content"),
+                          radioGroupButtons("lang", choiceNames = langOptions$language, choiceValues = langOptions$suffix, individual = TRUE, selected = character(0)),
+                          actionButton("langOK", "OK", disabled = TRUE)
                      ))
 
 disclaimer <- tabPanel("disclaimerTab",
@@ -60,7 +61,7 @@ disclaimer <- tabPanel("disclaimerTab",
                             uiOutput("disc1"),
                             actionButton("about", label = NULL),
                             actionButton("understood", label = NULL),
-                            imageOutput("logo", height = "fit-content"),
+                            imageOutput("unilogo", height = "fit-content"),
                             ))
 
 completionQ <- tabPanel("completionQTab",
@@ -378,8 +379,11 @@ server <- function(input, output, session) {
   # Includes some text that would typically be directly in UI, but for multilanguage
   # purposes is defined in server.
   
+  # Language page logo
+  output$applogo <- renderImage(list(src=normalizePath(file.path("./www/appLogo.png")), width="300px", id="applogo"), deleteFile = FALSE)
+  
   # Disclaimer page
-  output$logo <- renderImage(list(src=normalizePath(file.path("./www/UTEGCLogo.jpg")), width="500px", id="logo"), deleteFile = FALSE)
+  output$unilogo <- renderImage(list(src=normalizePath(file.path("./www/UTUoE.jpg")), width="300px", id="unilogo"), deleteFile = FALSE)
   output$disc1 <- renderUI(
     includeMarkdown(paste0("www/", lang(), "/1stpage.md", collapse=""))
   )

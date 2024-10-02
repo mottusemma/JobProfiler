@@ -14,5 +14,6 @@ Vajutades Jätkake, kinnitate järgnevat:
 - tulemused ei näita, kas te olete mõne töö jaoks sobiv või vähem sobiv
 - peaksite tulemusi ignoreerima, kui need ei tundu teile õiged
 - teie vastused on anonüümsed ning me muudame need avalikult kättesaadavaks teadus- ja arendustöö eesmärgil pärast Esitage vajutamist
-- võite rakenduse igal hetkel sulgeda
+- kuna vastused on anonüümseid, ei saa neid tagasi võtta
+- kasutate seda rakendust vabatahtlikult ning võite selle igal hetkel sulgeda
 - rakendus on hetkel beeta testimise faasis

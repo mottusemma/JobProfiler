@@ -188,9 +188,9 @@ ui <- page_fluid(
     meta_social(
       title = filter(appText, ID %in% "title") %>% pull(en),
       description = filter(appText, ID %in% "descr") %>% pull(en),
-      url = "https://pkg.garrickadenbuie.com/metathis",
-      #image = "http to png",
-      #image_alt = filter(appText, ID %in% "alt") %>% pull(en),
+      url = "https://apps.psych.ut.ee/JobProfiler",
+      image = "www/appLogo.png",
+      image_alt = filter(appText, ID %in% "alt") %>% pull(en),
       twitter_creator = "@renemottus",
       twitter_card_type = "summary",
       twitter_site = "@renemottus"

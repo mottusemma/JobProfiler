@@ -12,3 +12,5 @@ We provide three types of feedback based on your responses:
 * Your personality traits may be different from any one job's average. This is because jobs' average traits tend to be similar, while people are more different among themselves
 * Having personality traits dissimilar to the average of those doing a job does not mean being unfit for the job
 * This app is currently in beta testing phase
+
+For support or feedback, please email jobprofiler@ut.ee.

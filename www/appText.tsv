@@ -20,12 +20,12 @@ int4	Do you have a job?	Kas te töötate?
 int5	What is your job title?	Millist tööd te teete?
 int6	Are you happy with your job?	Kas te olete oma tööga rahul?
 mat1	Now we ask you to rate 74 statements about your personality.	Nüüd palume teil hinnata 74 isiksuseomadusi kirjeldavat väidet.
-mat2	Please rate how well each statement describes you generally.	Palun hinnake, kui hästi iga väidete kirjeldab seda, milline te tavaliselt olete.
-mat3	Please answer as carefully and honestly as you can. The results’ accuracy depends on the responses.	Palun vastake nii põhjalikult ja ausalt kui saate. Tulemuste tõepärasus sõltub antud vastustest.
+mat2	Please rate how well each statement describes you generally.	Palun hinnake, kui hästi iga väide kirjeldab seda, milline te tavaliselt olete.
+mat3	Please answer as carefully and honestly as you can. Your results’ accuracy depends on the responses.	Palun vastake nii põhjalikult ja ausalt, kui saate. Sellest sõltub teie tulemuste tõepärasus.
 mat4	If on mobile, you may wish to rotate the screen for a better view.	Telefoni kasutades võib telefoni pööramine vastamise mugavamaks teha.
 fb1	Information	Informatsioon
 fb21	Job list	Tööde nimistu
-fb22	People doing these jobs tended to give the most or least similar responses to yours.	Neid töid tegevad inimesed kalduvad andma vastuseid, mis kõige enam või kõige vähem sarnanevad teie vastustega
+fb22	People doing these jobs tended to give the most or least similar responses to yours. To save the results, please take screenshots.	Neid töid tegevad inimesed kalduvad andma vastuseid, mis kõige enam või kõige vähem sarnanevad teie vastustega. Tulemuste säilitamiseks salvestage ekraanitõmmised.
 fb23	Jobs with the most similar people	Ametid teile kõige enam sarnasemate inimestega
 fb24	Jobs with the least similar people	Ametid teile kõige vähem sarnasemate inimestega
 fb31	Job map	Tööde kaart
@@ -35,11 +35,11 @@ here	Why am I here?	Miks ma olen siin?
 whatB5	What is the Big Five?	Mis on Suur Viisik?
 fb41	Big Five	Suur Viisik
 fb42	Your Big Five trait scores	Teie Suure Viisiku skoorid
-fb43	These traits are usually used by scientists to describe differences among people.	Teadlased kasutavad tihti neid omadusi inimeste isiksusest ülevaate andmiseks.
+fb43	These traits are usually used by scientists to describe differences among people. To save the results, please take screenshots.	Teadlased kasutavad tihti neid omadusi inimeste isiksusest ülevaate andmiseks. Tulemuste säilitamiseks salvestage ekraanitõmmised.
 fb51	Share	Jagage
 fb6	FAQ	KKK
 int7	This app is for people aged between 18 and 70.	See rakendus sobib kasutamiseks inimestele vanuses 18 kuni 70 aastat.
-mod1	Please read the information sheet before exploring your results.	Enne tulemuste vaatamist lugege palun infolehte.
+mod1	Please read the information sheet before exploring your results. To save the results, please take screenshots.	Enne tulemuste vaatamist lugege palun infolehte. Tulemuste säilitamiseks salvestage ekraanitõmmised.
 mod2	Results	Tulemused
 fb35	You	Teie 
 fb44	Low	Madal

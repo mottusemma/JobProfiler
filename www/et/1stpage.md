@@ -16,4 +16,3 @@ Vajutades Jätkake, kinnitate järgnevat:
 - teie vastused on anonüümsed ning me muudame need avalikult kättesaadavaks teadus- ja arendustöö eesmärgil pärast Esitage vajutamist
 - kuna vastused on anonüümseid, ei saa neid tagasi võtta
 - kasutate seda rakendust vabatahtlikult ning võite selle igal hetkel sulgeda
-- rakendus on hetkel beeta testimise faasis

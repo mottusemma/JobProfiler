@@ -16,4 +16,3 @@ By clicking Continue, you acknowledge that
 * your responses are anonymous, and we will make them publicly available to anyone for research, development or any other use after you click Submit
 * because the responses are anonymous, they cannot be withdrawn
 * you are using the app voluntarily and can close it now or at any time
-* the app is currently in the beta testing phase

@@ -2,7 +2,8 @@
 
 **Kas saan tulemusi tõlgendada kui karjääri-/kutsenõustamist?**
 
-Ei! **See rakendus ei paku karjäärinõustamist**. Sellist nõustamist võivad pakkuda ainult kutsega spetsialistid. Kuid need tulemused võivad aidata teil ennast paremini tundma õppida. Ehkki saadud tulemused võivad iseloomustada teie tegelikke isiksuseomadusi, võivad need olla ka ebatäpsed. Soovitame teil oma tulemusi tõlgendada ainult ühe infokilluna enda kohta ja ainult siis, kui need sobivad teie unikaalse elu ja asjaolude konteksti.
+Ei! **See rakendus ei paku karjäärinõustamist**. Karjäärinõustamist saavad pakkuda ainult vastava väljaõppega spetsialistid. Kuid need tulemused võivad aidata teil ennast paremini tundma õppida. Ehkki saadud tulemused võivad iseloomustada teie tegelikke isiksuseomadusi, võivad need olla ka ebatäpsed. Soovitame teil oma tulemusi tõlgendada ainult ühe infokilluna enda kohta ja ainult siis, kui need sobivad teie unikaalse elu ja asjaolude konteksti.
+Vajadusel saate oma tulemusi või karjääriküsimusi arutada Eesti Töötukassa karjäärinõustajatega. Töötukassa karjääriteenused on kõigile soovijatele tasuta. Täpsema info leiate: https://minukarjaar.ee/et/sisu/karjaariteenused
 
 **Miks minu tulemused tunduvad imelikud?**
 

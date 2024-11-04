@@ -4,7 +4,7 @@ Olete kunagi mõelnud, kuidas teie isiksus sarnaneb erinevate tööde tegijatele
 
 See rakendus aitab teil seda lähemalt uurida.
 
-See rakendus ei paku karjäärinõu, aga võib aidata teile enda kohta midagi uut teada saada.
+See rakendus ei paku karjäärinõu, aga võib aidata teile enda kohta midagi uut teada saada. Vajadusel saate oma tulemusi või karjääriküsimusi arutada Eesti Töötukassa karjäärinõustajatega. Täpsema info leiate: https://minukarjaar.ee/et/sisu/karjaariteenused
 
 Vajutades Jätkake, kinnitate järgnevat:
 

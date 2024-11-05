@@ -1,82 +1,82 @@
-ID	en	et
-sc1	Very false	Täiesti vale
-sc2	Quite false	Üsna vale
-sc3	Slightly false	Pigem vale
-sc4	Slightly true	Pigem õige
-sc5	Quite true	Üsna õige
-sc6	Very true	Täiesti õige
-title	Your personality among different jobs	Teie isiksus ja erinevad tööd
-descr	Personality profile fit test: see how your Big Five personality traits match over 250 jobs. Based on a scientific study of nearly 70,000 people.	Isiksuseprofiili sobivuse test: vaata, kuidas sinu Suure Viisiku omadused sobivad enam kui 250 tööga. Põhineb ligi 70,000 inimest hõlmanud teadusuuringul
-subject	Your personality traits compared to hundreds of jobs	Teie isiksuseomadused võrrelduna sadade ametitega
-alt	Which jobs match your personality traits?	Millised tööd sarnanevad teie isiksuseomadustele?
-comp1	Have you previously used this app?	Kas olete varem seda rakendust kasutanud?
-comp2	Did somebody send you the link to this app?	Kas keegi saatis teile selle rakenduse lingi?
-comp3	Who was the link shared by?	Kes saatis teile selle lingi?
-disc1	Contact us: rene.mottus@ut.ee	Võtke ühendust: rene.mottus@ut.ee
-int1	The gender you identify with the most	Millist sugu te endale omasemaks peate?
-int2	Your age	Teie vanus
-int3	Which country do you live in?	Mis maal te elate?
-int4	Do you have a job?	Kas te töötate?
-int5	What is your job title?	Millist tööd te teete?
-int6	Are you happy with your job?	Kas te olete oma tööga rahul?
-mat1	Now we ask you to rate 74 statements about your personality.	Nüüd palume teil hinnata 74 isiksuseomadusi kirjeldavat väidet.
-mat2	Please rate how well each statement describes you generally.	Palun hinnake, kui hästi iga väide kirjeldab seda, milline te tavaliselt olete.
-mat3	Please answer as carefully and honestly as you can. Your results’ accuracy depends on the responses.	Palun vastake nii põhjalikult ja ausalt, kui saate. Sellest sõltub teie tulemuste tõepärasus.
-mat4	If on mobile, you may wish to rotate the screen for a better view.	Telefoni kasutades võib telefoni pööramine vastamise mugavamaks teha.
-fb1	Information	Informatsioon
-fb21	Job list	Tööde nimistu
-fb22	People doing these jobs tended to give the most or least similar responses to yours. To save the results, please take screenshots.	Neid töid tegevad inimesed kalduvad andma vastuseid, mis kõige enam või kõige vähem sarnanevad teie vastustega. Tulemuste säilitamiseks salvestage ekraanitõmmised.
-fb23	Jobs with the most similar people	Ametid teile kõige enam sarnasemate inimestega
-fb24	Jobs with the least similar people	Ametid teile kõige vähem sarnasemate inimestega
-fb31	Job map	Tööde kaart
-fb32	Average job incumbents according to their personality profiles	Ametite esindajad keskmiste isiksuseprofiilide põhjal
-fb33	Hover over the dots or press on them to see job titles.	Liikuge hiirega üle punktide või vajutage neile, et näha tööde nimesid.
-here	Why am I here?	Miks ma olen siin?
-whatB5	What is the Big Five?	Mis on Suur Viisik?
-fb41	Big Five	Suur Viisik
-fb42	Your Big Five trait scores	Teie Suure Viisiku skoorid
-fb43	These traits are usually used by scientists to describe differences among people. To save the results, please take screenshots.	Teadlased kasutavad tihti neid omadusi inimeste isiksusest ülevaate andmiseks. Tulemuste säilitamiseks salvestage ekraanitõmmised.
-fb51	Share	Jagage
-fb6	FAQ	KKK
-int7	This app is for people aged between 18 and 70.	See rakendus sobib kasutamiseks inimestele vanuses 18 kuni 70 aastat.
-mod1	Please read the information sheet before exploring your results. To save the results, please take screenshots.	Enne tulemuste vaatamist lugege palun infolehte. Tulemuste säilitamiseks salvestage ekraanitõmmised.
-mod2	Results	Tulemused
-fb35	You	Teie 
-fb44	Low	Madal
-fb45	Medium	Keskmine
-fb46	High	Kõrge
-fb52	To share the app with a close person, use this private link	Rakendust lähedase inimesega jagades kasutage seda privaatset linki
-fb53	Copy private link	Kopeerige privaatne link
-fb54	To share the app on social media, use this public link	Sotsiaalmeedias jagamiseks kasutage seda avalikku linki
-fb55	Copy public link	Kopeerige avalik link
-fb56	The private link allows us to connect your responses, even though you both remain anonymous. This is useful for scientific work to see how friends or family members share personality traits or occupational choices. The private link will not be included in the public database.	Privaatne link aitab meile teie vastused kokku viia, ehkki jääte mõlemad anonüümseks. See on kasulik teadustöös, et hinnata sugulaste ja sõprade sarnasust isiksuseomaduste ja ametivaliku osas. Privaatne link ei salvestu avalikku andmebaasi.
-yes	Yes	Jah
-no	No	Ei
-sel	Select...	Valige …
-comp21	Parent	Vanem
-comp22	Child	Laps
-comp23	Full sibling	Täisõde või täisvend
-comp24	Grandparent or grandchild	Vanavanem või lapselaps
-comp25	Other relative	Muu sugulane
-comp26	Partner	Partner
-comp27	Friend	Sõber
-comp28	Colleague	Kolleeg
-comp29	Other	Muu
-fem	Female	Naine
-male	Male	Mees
-type	Start typing...	Alustage trükkimist …
-subm	Submit	Esitage
-retake	Retake the survey	Vastake küsimustele uuesti
-next	Next	Edasi
-cont	Continue	Jätkake
-int8	How many years have you been doing your current job?	Mitu aastat olete oma praegust tööd teinud?
-int81	Less than a year	Vähem kui aasta
-int82	One to two years	Üks kuni kaks aastat
-int83	Up to five years	Kuni viis aastat
-int84	Up to ten years	Kuni kümme aastat
-int85	More than ten years	Üle kümne aasta
-dismiss	Close	Sulgege
-about	About the app	Loe lähemalt
-trait	Trait	Omadus
-score	Score	Skoor
-resfb	Does it make sense?	Kas tundub loogiline?
+ID	en	et	zh	bp
+sc1	Very false	Täiesti vale	非常不符合	Muito falso
+sc2	Quite false	Üsna vale	比较不符合	Bastante falso
+sc3	Slightly false	Pigem vale	稍微不符合	Um pouco falso
+sc4	Slightly true	Pigem õige	稍微符合	Um pouco verdadeiro
+sc5	Quite true	Üsna õige	比较符合	Bastante verdadeiro
+sc6	Very true	Täiesti õige	非常符合	Muito verdadeiro
+title	Your personality among different jobs	Teie isiksus ja erinevad tööd	您的性格与不同工作的契合度	Sua personalidade em diferentes empregos
+descr	Personality profile fit test: see how your Big Five personality traits match over 250 jobs. Based on a scientific study of nearly 70,000 people.	Isiksuseprofiili sobivuse test: vaata, kuidas sinu Suure Viisiku omadused sobivad enam kui 250 tööga. Põhineb ligi 70,000 inimest hõlmanud teadusuuringul	性格特质匹配度测试：了解您的大五人格（性格）特质与 250 多种工作的匹配程度。基于近 7 万人样本的科学研究。	Teste de adequação de perfil de personalidade: veja como seus traços de personalidade baseados no Big Five se encaixam em mais de 250 profissões. Baseado em um estudo científico com quase 70.000 pessoas
+subject	Your personality traits compared to hundreds of jobs	Teie isiksuseomadused võrrelduna sadade ametitega	您的性格特质与数百种工作的比较	Seus traços de personalidade comparados a centenas de profissões
+alt	Which jobs match your personality traits?	Millised tööd sarnanevad teie isiksuseomadustele?	哪种工作最符合您的性格？	Quais profissões combinam com seus traços de personalidade?
+comp1	Have you previously used this app?	Kas olete varem seda rakendust kasutanud?	您以前使用过此应用吗？	Você já usou este aplicativo?
+comp2	Did somebody send you the link to this app?	Kas keegi saatis teile selle rakenduse lingi?	您是通过他人分享获得的链接吗？	Alguém lhe enviou o link deste aplicativo?
+comp3	Who was the link shared by?	Kes saatis teile selle lingi?	是谁与您分享的链接？	Quem compartilhou com vocês o link deste aplicativo?
+disc1	Contact us: jobprofiler@ut.ee	Võtke ühendust: jobprofiler@ut.ee	联系我们：jobprofiler@ut.ee	Contacte-nos: jobprofiler@ut.ee
+int1	The gender you identify with the most	Millist sugu te endale omasemaks peate?	您认为您的性别是	Com qual gênero você se identifica mais?
+int2	Your age	Teie vanus	您的年龄	Sua idade
+int3	Which country do you live in?	Mis maal te elate?	您目前居住在哪个国家？	Em que país você mora?
+int4	Do you have a job?	Kas te töötate?	您目前有工作吗？	Você tem um emprego?
+int5	What is your job title?	Millist tööd te teete?	您的工作职位是什么？	Qual é o seu cargo?
+int6	Are you happy with your job?	Kas te olete oma tööga rahul?	您对您的工作满意吗？	Você esta satisfeito com seu emprego?
+mat1	Now we ask you to rate 74 statements about your personality.	Nüüd palume teil hinnata 74 isiksuseomadusi kirjeldavat väidet.	现在请您对74项关于自身性格特质的陈述进行评估。	Agora pedimos que você avalie 74 afirmações sobre sua personalidade.
+mat2	Please rate how well each statement describes you generally.	Palun hinnake, kui hästi iga väide kirjeldab seda, milline te tavaliselt olete.	请评定每项陈述与您的符合程度。	Por favor, avalie quanto cada afirmação descreve você de forma geral.
+mat3	Please answer as carefully and honestly as you can. Your results’ accuracy depends on the responses.	Palun vastake nii põhjalikult ja ausalt, kui saate. Sellest sõltub teie tulemuste tõepärasus.	请尽可能仔细和诚实地回答。结果的准确性取决于您的回答。	Por favor, responda com o máximo de cuidado e honestidade possível. A precisão dos resultados depende das suas respostas.
+mat4	If on mobile, you may wish to rotate the screen for a better view.	Telefoni kasutades võib telefoni pööramine vastamise mugavamaks teha.	如果您正在使用手机，您可能需要横屏以获得更好的视图。	Se estiver usando um dispositivo móvel, você pode girar a tela para uma melhor visualização.
+fb1	Information	Informatsioon	重要信息	Informação
+fb21	Job list	Tööde nimistu	工作种类	Lista de empregos
+fb22	People doing these jobs tended to give the most or least similar responses to yours. To save the results, please take screenshots.	Neid töid tegevad inimesed kalduvad andma vastuseid, mis kõige enam või kõige vähem sarnanevad teie vastustega. Tulemuste säilitamiseks salvestage ekraanitõmmised.	从事这些工作的人倾向于给出与您最相似或最不相似的回答。	As pessoas que realizam esses trabalhos tendem a dar respostas mais ou menos semelhantes às suas.
+fb23	Jobs with the most similar people	Ametid teile kõige enam sarnasemate inimestega	与您性格特质最相似的工作	Trabalhos com pessoas mais parecidas com você
+fb24	Jobs with the least similar people	Ametid teile kõige vähem sarnasemate inimestega	与您性格特质最不相似的工作	Trabalhos com pessoas menos parecidas com você
+fb31	Job map	Tööde kaart	工作分布图	Mapa de trabalhos
+fb32	Average job incumbents according to their personality profiles	Ametite esindajad keskmiste isiksuseprofiilide põhjal	从业者的性格特质平均水平	Média dos ocupantes dos trabalhos de acordo com seus perfis de personalidade
+fb33	Hover over the dots or press on them to see job titles.	Liikuge hiirega üle punktide või vajutage neile, et näha tööde nimesid.	将鼠标悬停在点上或点击以查看工作名称。	Passe o cursor sobre os pontos ou clique neles para ver os títulos dos trabalhos.
+here	Why am I here?	Miks ma olen siin?	我为什么处于这个位置？	Por que estou aqui?
+whatB5	What is the Big Five?	Mis on Suur Viisik?	什么是大五人格？	O que é o Big Five?
+fb41	Big Five	Suur Viisik	大五人格	Big Five
+fb42	Your Big Five trait scores	Teie Suure Viisiku skoorid	您的大五人格特质评分	Seus escores nos traços do Big Five
+fb43	These traits are usually used by scientists to describe differences among people. To save the results, please take screenshots.	Teadlased kasutavad tihti neid omadusi inimeste isiksusest ülevaate andmiseks. Tulemuste säilitamiseks salvestage ekraanitõmmised.	这些性格特质通常被科学家们用于描述个体之间的差异。	Esses traços são geralmente usados por cientistas para descrever diferenças entre as pessoas.
+fb51	Share	Jagage	一键分享	Compartilhar
+fb6	FAQ	KKK	常见问题	Perguntas Frequentes (FAQ)
+int7	This app is for people aged between 18 and 70.	See rakendus sobib kasutamiseks inimestele vanuses 18 kuni 70 aastat.	此应用适用于18至70岁的人群。	Este aplicativo é destinado a pessoas entre 18 e 70 anos.
+mod1	Please read the information sheet before exploring your results. To save the results, please take screenshots.	Enne tulemuste vaatamist lugege palun infolehte. Tulemuste säilitamiseks salvestage ekraanitõmmised.	请在查看结果之前阅读信息说明。	Por favor, leia a folha de informações antes de explorar seus resultados.
+mod2	Results	Tulemused	结果	Resultados
+fb35	You	Teie	您	Você
+fb44	Low	Madal	低	Baixo
+fb45	Medium	Keskmine	中	Médio
+fb46	High	Kõrge	高	Alto
+fb52	To share the app with a close person, use this private link	Rakendust lähedase inimesega jagades kasutage seda privaatset linki	分享此链接给您亲近的人，请使用此私密链接	Para compartilhar o aplicativo com uma pessoa próxima, use este link privado
+fb53	Copy private link	Kopeerige privaatne link	复制私密链接	Copiar link privado
+fb54	To share the app on social media, use this public link	Sotsiaalmeedias jagamiseks kasutage seda avalikku linki	在社交媒体上分享此应用，请使用此公开链接	Para compartilhar o aplicativo nas redes sociais, use este link público
+fb55	Copy public link	Kopeerige avalik link	复制公开链接	Copiar link público
+fb56	The private link allows us to connect your responses, even though you both remain anonymous. This is useful for scientific work to see how friends or family members share personality traits or occupational choices. The private link will not be included in the public database.	Privaatne link aitab meile teie vastused kokku viia, ehkki jääte mõlemad anonüümseks. See on kasulik teadustöös, et hinnata sugulaste ja sõprade sarnasust isiksuseomaduste ja ametivaliku osas. Privaatne link ei salvestu avalikku andmebaasi.	私密链接也是匿名的。收集相关数据会帮助我们的科学研究 - 朋友和家人如何互相影响对方的性格和工作选择。私密链接不会包含在公共数据库中。	O link privado nos permite conectar suas respostas, mesmo que ambos permaneçam anônimos. Isso é útil para pesquisas científicas que investigam como amigos ou familiares compartilham traços de personalidade ou escolhas ocupacionais. O link privado não será incluído no banco de dados público.
+yes	Yes	Jah	是	Sim
+no	No	Ei	否	Não
+sel	Select...	Valige …	请选择...	Selecionar...
+comp21	Parent	Vanem	父母	Pai/Mãe
+comp22	Child	Laps	子女	Filho(a)
+comp23	Full sibling	Täisõde või täisvend	亲兄弟姐妹	Irmão/Irmã
+comp24	Grandparent or grandchild	Vanavanem või lapselaps	（外）祖父母或（外）孙子（外）孙女	Avô/Avó ou neto(a)
+comp25	Other relative	Muu sugulane	其他亲戚	Outro parente
+comp26	Partner	Partner	伴侣	Parceiro(a)
+comp27	Friend	Sõber	朋友	Amigo(a)
+comp28	Colleague	Kolleeg	同事	Colega
+comp29	Other	Muu	其他	Outro
+fem	Female	Naine	女性	Feminino
+male	Male	Mees	男性	Masculino
+type	Start typing...	Alustage trükkimist …	请开始输入……	Comece a digitar...
+subm	Submit	Esitage	提交	Enviar
+retake	Retake the survey	Vastake küsimustele uuesti	重做问卷	Refazer o questionário
+next	Next	Edasi	下一步	Próximo
+cont	Continue	Jätkake	继续	Continuar
+int8	How many years have you been doing your current job?	Mitu aastat olete oma praegust tööd teinud?	您从事当前工作多少年了？	Há quanto tempo você trabalha no emprego que esta atualmente?
+int81	Less than a year	Vähem kui aasta	少于一年	Menos de um ano
+int82	One to two years	Üks kuni kaks aastat	一到两年	Entre um e dois anos
+int83	Up to five years	Kuni viis aastat	二到五年	Até cinco anos
+int84	Up to ten years	Kuni kümme aastat	五到十年	Até dez anos
+int85	More than ten years	Üle kümne aasta	超过十年	Mais de dez anos
+dismiss	Close	Sulgege	关闭	Fechar
+about	About the app	Loe lähemalt	关于应用	Sobre o aplicativo
+trait	Trait	Omadus	性格特质	Traço
+score	Score	Skoor	评分	Escore
+resfb	Does it make sense?	Kas tundub loogiline?	您认为结果是否合理？	Faz sentido?

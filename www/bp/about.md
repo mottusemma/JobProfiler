@@ -2,6 +2,6 @@ Este aplicativo é baseado em um <a href="https://psycnet.apa.org/fulltext/2025-
 
 O aplicativo foi desenvolvido por Emma Mõttus (emma.mottus@ut.ee) e René Mõttus (rene.mottus@ed.ac.uk).
 
-For support or feedback, please email jobprofiler@ut.ee.
+Para suporte ou feedback, por favor, envie um email para jobprofiler@ut.ee.
 
-The app's use for research has been approved by the University of Edinburgh PPLS Research Ethics Committee (no 4-2425/2).
+O uso do app para pesquisa foi aprovado pelo Comitê de Ética em Pesquisa da Universidade de Edimburgo (no 4-2425/2).

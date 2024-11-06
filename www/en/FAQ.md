@@ -26,7 +26,7 @@ If using a computer, hover over the dots. When using a mobile device, press firm
 
 **What data are these results based on?**
 
-The results are based on comparing your responses to those of the members of the Estonian Biobank. This is a sample of over 70,000 Estonian adults, containing the information about personality traits and occupations. The study is described here: https://osf.io/preprints/psyarxiv/ajvg2.
+The results are based on comparing your responses to those of the members of the Estonian Biobank. This is a sample of over 70,000 Estonian adults, containing the information about personality traits and occupations. The study is described here: https://psycnet.apa.org/fulltext/2025-38154-001.html.
 
 **Does my age and gender matter?**
 
@@ -34,8 +34,8 @@ In our calculations, we have taken your gender and age into account. Specificall
 
 **Why did we ask these particular questions?**
 
-The statements describing various personality characteristics were selected to allow us to efficiently assess people's Big Five personality traits used by most personality scientists for various purposes, including describing occupational differences. We also asked some additional questions that tend to show the largest differences in how people doing different jobs respond. This is explained in more detail [here](https://osf.io/preprints/psyarxiv/ajvg2).
+The statements describing various personality characteristics were selected to allow us to efficiently assess people's Big Five personality traits used by most personality scientists for various purposes, including describing occupational differences. We also asked some additional questions that tend to show the largest differences in how people doing different jobs respond. This is explained in more detail [here](https://psycnet.apa.org/fulltext/2025-38154-001.html).
 
 **Are the app source code and data open?**
 
-Yes. The source code will be available on [Gitlab](https://github.com/mottusemma/JobProfiler) and the fully anonymous data will be publicly available thought the [Open Science Framework](https://osf.io/mvzd4/).
+Yes. The source code will be available on [Gitlab](https://github.com/mottusemma/JobProfiler) and the fully anonymous data will be publicly available throught the [Open Science Framework](https://osf.io/mvzd4/).

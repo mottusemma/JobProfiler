@@ -27,7 +27,7 @@ Kui kasutate arvutit, liigutage hiir punkti kohale. Kui kasutate mobiiliseadet, 
 
 **Millistel andmetel põhinevad need tulemused?**
 
-Tulemused põhinevad teie vastuste võrdlemisel Eesti Geenivaramu doonorite vastustega. See on üle 70 000 eesti täiskasvanut koondav valim, mis sisaldab teavet isiksuseomaduste ja ametite kohta. Uuringut on kirjeldatud siin: https://osf.io/preprints/psyarxiv/ajvg2.
+Tulemused põhinevad teie vastuste võrdlemisel Eesti Geenivaramu doonorite vastustega. See on üle 70 000 eesti täiskasvanut koondav valim, mis sisaldab teavet isiksuseomaduste ja ametite kohta. Uuringut on kirjeldatud siin: https://psycnet.apa.org/fulltext/2025-38154-001.html.
 
 **Kas minu vanus ja sugu on olulised?**
 
@@ -35,7 +35,7 @@ Oma arvutustes oleme arvestanud teie soo ja vanusega. Täpsemalt oleme võrrelnu
 
 **Miks me küsisime just neid küsimusi?**
 
-Valisime isiksuseomadusi kirjeldavad väited selliselt, et saaksime tõhusalt hinnata inimeste Suure Viisiku isiksuseomadusi. Just neid omadusi kasutab oma töös enamik isiksuseuurijaid, sealhulgas ametialaste erinevuste kirjeldamiseks. Küsisime ka mõningaid lisaküsimusi, mille vastuste osas kalduvad olema suurimad ametitevahelised erinevused. Seda kõike on põhjalikumalt selgitatud [siin](https://osf.io/preprints/psyarxiv/ajvg2).
+Valisime isiksuseomadusi kirjeldavad väited selliselt, et saaksime tõhusalt hinnata inimeste Suure Viisiku isiksuseomadusi. Just neid omadusi kasutab oma töös enamik isiksuseuurijaid, sealhulgas ametialaste erinevuste kirjeldamiseks. Küsisime ka mõningaid lisaküsimusi, mille vastuste osas kalduvad olema suurimad ametitevahelised erinevused. Seda kõike on põhjalikumalt selgitatud [siin](https://psycnet.apa.org/fulltext/2025-38154-001.html).
 
 **Kas rakenduse lähtekood ja andmed on avatud?**
 

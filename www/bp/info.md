@@ -12,4 +12,4 @@ Nós fornecemos três tipos de feedback com base nas suas respostas:
 * Seus traços de personalidade podem ser diferentes da média de qualquer trabalho específico. Isso ocorre porque as médias de traços nos trabalhos tendem a ser semelhantes, enquanto as pessoas são mais diversas entre si
 * Ter traços de personalidade diferentes da média daqueles que fazem um trabalho não significa que você não seja adequado para ele
 
-For support or feedback, please email jobprofiler@ut.ee.
+Para suporte ou feedback, por favor, envie um email para jobprofiler@ut.ee.

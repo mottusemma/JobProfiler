@@ -53,7 +53,8 @@ language <- tabPanel("languageTab",
                      card(class="pages",
                           imageOutput("applogo", height = "fit-content"),
                           radioGroupButtons("lang", choiceNames = langOptions$language, choiceValues = langOptions$suffix, individual = TRUE, selected = character(0)),
-                          actionButton("langOK", "OK", disabled = TRUE)
+                          actionButton("langOK", "OK", disabled = TRUE),
+                          "Find out which jobs are a good match for your personality traits"
                      ))
 
 disclaimer <- tabPanel("disclaimerTab",

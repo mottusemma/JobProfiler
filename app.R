@@ -20,8 +20,6 @@ library(rlang)
 library(rclipboard)
 library(metathis)
 
-options(shiny.sanitize.errors = FALSE)
-
 ### READING IN FILES / DATAFRAME -> MATRIX
 
 # Language options: softcoded
@@ -160,12 +158,7 @@ results <- tabPanel("resultsTab",
 # Application UI
 ui <- page_fluid(
   tags$title("Your personality among different jobs"),
-  tags$head(
-    includeCSS("www/style.css"),
-    includeScript("www/custom.js")
-    ),
-
-  
+  tags$head(includeCSS("www/style.css")),
   theme = bs_theme(bootswatch = "minty"),
   shinyFeedback::useShinyFeedback(),
   rclipboardSetup(),

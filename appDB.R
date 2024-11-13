@@ -19,8 +19,7 @@ library(markdown)
 library(rlang)
 library(rclipboard)
 library(metathis)
-
-options(shiny.sanitize.errors = FALSE)
+library(RSQLite)
 
 ### READING IN FILES / DATAFRAME -> MATRIX
 
@@ -56,7 +55,10 @@ language <- tabPanel("languageTab",
                           imageOutput("applogo", height = "fit-content"),
                           radioGroupButtons("lang", choiceNames = langOptions$language, choiceValues = langOptions$suffix, individual = TRUE, selected = character(0)),
                           actionButton("langOK", "OK", disabled = TRUE),
-                          "Find out which jobs are a good match for your personality traits"
+                          "Hetkel on rakenduse vastu erakordselt suur huvi ja see võib olla aelgane ning aeg-ajalt mitte töötada. Probleemide korral sulgege palun veebilehitseja aken ja naaske mõne tunni pärast. Vabandame ja palume kannatlikkust.",
+                          br(),
+                          br(),
+                          "Currently, we have a very high number of users. If you experience problems, please close the browser tab and return later. We apologize."
                      ))
 
 disclaimer <- tabPanel("disclaimerTab",
@@ -65,38 +67,38 @@ disclaimer <- tabPanel("disclaimerTab",
                             actionButton("about", label = NULL),
                             actionButton("understood", label = NULL),
                             imageOutput("unilogo", height = "fit-content"),
-                            ))
+                       ))
 
 completionQ <- tabPanel("completionQTab",
                         card(class="pages",
-                          radioGroupButtons("completion", label = NULL, choices = c("")),
-                          radioGroupButtons("sharedYN", label = NULL, choices = c("")),
-                          conditionalPanel("input.sharedYN == 'Yes'",
-                                           selectizeInput("sharedBy", label = NULL, choices = c("")),
-                                           tags$div(id="padd")),
-                          actionButton("completionOK", "OK", disabled = TRUE)
-                      ))
+                             radioGroupButtons("completion", label = NULL, choices = c("")),
+                             radioGroupButtons("sharedYN", label = NULL, choices = c("")),
+                             conditionalPanel("input.sharedYN == 'Yes'",
+                                              selectizeInput("sharedBy", label = NULL, choices = c("")),
+                                              tags$div(id="padd")),
+                             actionButton("completionOK", "OK", disabled = TRUE)
+                        ))
 
 surveyIntro <- tabPanel("surveyTabIntro",
                         card(class="pages",
-                          radioGroupButtons("gender", label = NULL, choices = c("")),
-                          numberInput("age", label = NULL, min = 18, max = 70, step = 1),
-                          selectizeInput("country", label = NULL, choices = c("")),
-                          textOutput("ageValid"),
-                          radioGroupButtons("jobYN", label = NULL, choices = c("")),
-                          conditionalPanel("input.jobYN == 'Yes'",
-                                           selectizeInput("job", label = NULL, choices = c("")),
-                                           radioButtons("jobLength", label = NULL, choices = c("")),
-                                           radioButtons("jobHappy", label = NULL, choices = c(""))
-                          ),
-                          actionButton("next1", label = NULL, disabled = TRUE)
+                             radioGroupButtons("gender", label = NULL, choices = c("")),
+                             numberInput("age", label = NULL, min = 18, max = 70, step = 1),
+                             selectizeInput("country", label = NULL, choices = c("")),
+                             textOutput("ageValid"),
+                             radioGroupButtons("jobYN", label = NULL, choices = c("")),
+                             conditionalPanel("input.jobYN == 'Yes'",
+                                              selectizeInput("job", label = NULL, choices = c("")),
+                                              radioButtons("jobLength", label = NULL, choices = c("")),
+                                              radioButtons("jobHappy", label = NULL, choices = c(""))
+                             ),
+                             actionButton("next1", label = NULL, disabled = TRUE)
                         ))
 
 surveyMat1 <- tabPanel("matrixTab1",
                        card(class="pages",
                             uiOutput("mat1"),
                             uiOutput("matrixQ1"),
-                            ))
+                       ))
 surveyMat2 <- tabPanel("matrixTab2",
                        card(class="pages",
                             uiOutput("matrixQ2")))
@@ -112,60 +114,64 @@ surveyMat5 <- tabPanel("matrixTab5",
 
 results <- tabPanel("resultsTab",
                     tags$div(class="pages",
-                      navset_card_underline(
-                        nav_panel(title = uiOutput("navT1"),
-                                  uiOutput("info")
-                        ),
-                        
-                        nav_panel(title = uiOutput("navT2"),
-                                  uiOutput("navB2"),
-                                  layout_columns(
-                                    card(
-                                      uiOutput("tenTop"),
-                                      tags$ol(
-                                        uiOutput("topTen")
-                                      )
-                                    ),
-                                    card(
-                                      uiOutput("tenBottom"),
-                                      tags$ol(
-                                        uiOutput("bottomTen")
-                                      )
-                                    )
-                                  )),
-                        nav_panel(title = uiOutput("navT3"),
-                                  uiOutput("navB31"),
-                                  girafeOutput("girafePlot", width = "100%"),
-                                  actionButton("whyHere", label = NULL)
-                                  ),
-                        nav_panel(title = uiOutput("navT4"),
-                                  uiOutput("navB4"),                                  
-                                  card(
-                                  tableOutput("big5table")),
-                                  actionButton("whatB5", label = NULL)
-                        ),
-                        nav_panel(title = uiOutput("navT5"),
-                                  card(
-                                    uiOutput("share")
-                                  )),
-                        nav_panel(title = uiOutput("navT6"),
-                                  card(
-                                    uiOutput("retake"),
-                                    uiOutput("FAQ")
-                                  )),
-                        nav_spacer()
-                      )
-))
+                             navset_card_underline(
+                               nav_panel(title = uiOutput("navT1"),
+                                         uiOutput("info")
+                               ),
+                               
+                               nav_panel(title = uiOutput("navT2"),
+                                         uiOutput("navB2"),
+                                         layout_columns(
+                                           card(
+                                             uiOutput("tenTop"),
+                                             tags$ol(
+                                               uiOutput("topTen")
+                                             )
+                                           ),
+                                           card(
+                                             uiOutput("tenBottom"),
+                                             tags$ol(
+                                               uiOutput("bottomTen")
+                                             )
+                                           )
+                                         )),
+                               nav_panel(title = uiOutput("navT3"),
+                                         uiOutput("navB31"),
+                                         girafeOutput("girafePlot", width = "100%"),
+                                         actionButton("whyHere", label = NULL)
+                               ),
+                               nav_panel(title = uiOutput("navT4"),
+                                         uiOutput("navB4"),                                  
+                                         card(
+                                           tableOutput("big5table")),
+                                         actionButton("whatB5", label = NULL)
+                               ),
+                               nav_panel(title = uiOutput("navT5"),
+                                         card(
+                                           uiOutput("share")
+                                         )),
+                               nav_panel(title = uiOutput("navT6"),
+                                         card(
+                                           uiOutput("retake"),
+                                           uiOutput("FAQ")
+                                         )),
+                               nav_spacer()
+                             )
+                    ))
+
+saveData <- function(dat) {
+  conn <- dbConnect(SQLite(), "responses.db")
+  dbExecute(conn, "INSERT INTO responses (id, sharerID, timestamp, lang, before, shared, sharer, gender, age, country, jobYN, job, jobLength, jobHappy, i1, i2, i3, i4, i5, i6, i7, i8, i9, i10, i11, i12, i13, i14, i15, i16, i17, i18, i19, i20, i21, i22, i23, i24, i25, i26, i27, i28, i29, i30, i31, i32, i33, i34, i35, i36, i37, i38, i39, i40, i41, i42, i43, i44, i45, i46, i47, i48, i49, i50, i51, i52, i53, i54, i55, i56, i57, i58, i59, i60, i61, i62, i63, i64, i65, i66, i67, i68, i69, i70, i71, i72, i73, i74) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
+            params = as.list(dat)
+  )
+  dbDisconnect(conn)
+}
+
 
 # Application UI
 ui <- page_fluid(
   tags$title("Your personality among different jobs"),
-  tags$head(
-    includeCSS("www/style.css"),
-    includeScript("www/custom.js")
-    ),
-
-  
+  tags$head(includeCSS("www/style.css")),
   theme = bs_theme(bootswatch = "minty"),
   shinyFeedback::useShinyFeedback(),
   rclipboardSetup(),
@@ -204,7 +210,7 @@ ui <- page_fluid(
       twitter_site = "@renemottus"
     )
   ##
-  )
+)
 
 ### SERVER: UI responsiveness, saving responses...
 
@@ -266,7 +272,7 @@ server <- function(input, output, session) {
     updateActionButton("save", label = getText("save"), session = session)
     
     updateTabsetPanel(inputId = "appTabs", selected = "disclaimerTab")
-    })
+  })
   
   # Disclaimer page
   observeEvent(input$about, {
@@ -340,16 +346,36 @@ server <- function(input, output, session) {
     mat4 <- input$matID4$response %>% map_int(\(x) match(x, ratingScale())) %>% matrix() %>% t()
     mat5 <- input$matID5$response %>% map_int(\(x) match(x, ratingScale())) %>% matrix() %>% t()
     matrixResponses <- cbind(mat1,mat2,mat3,mat4,mat5)
-
+    
     # Norm personality question responses to age-gender group
     normedItems <- as.matrix((matrixResponses - meanNorms[normgroup,-1]) / sdNorms[normgroup,-1])
     response2D <- normedItems %*% itemCors %*% weights
     B5scores <- normedItems %*% itemCors %*% weightsBig5
     
     timestamp <- Sys.time()
-    response <- cbind(data.frame(ownSession, sharedSession(), timestamp, input$lang, input$completion, sharedYN, sharedBy, input$gender,input$age, country, jobYN,job,jobLength,jobHappy), matrixResponses)
-    write_tsv(response, paste0("participantResponses/", ownSession, "_", timestamp, ".tsv", collapse = ""), append = FALSE, col_names = FALSE)
-
+    response <- 
+      c(
+        lapply(list(
+          ownSession, 
+          sharedSession(), 
+          timestamp, 
+          input$lang, 
+          input$completion, 
+          sharedYN, 
+          sharedBy, 
+          input$gender,
+          input$age, 
+          country, 
+          jobYN,
+          job,
+          jobLength,
+          jobHappy),as.character),
+        as.list(matrixResponses)
+      )
+    
+    saveData(response)
+    
+    
     ## calculate [some correlation] between response items and mean items for each occupation
     icc <- function(x,y) cor(c(x,y),c(y,x))
     iccs <- apply(as.matrix(occResponses), 1, icc, as.matrix(normedItems))
@@ -459,7 +485,7 @@ server <- function(input, output, session) {
     tags$p(getText("fb42")), 
     tags$p(getText("fb43"))
   ))
-
+  
   # Results page tab bodies
   output$info <- renderUI(includeMarkdown(paste0("www/", lang(), "/info.md")))
   

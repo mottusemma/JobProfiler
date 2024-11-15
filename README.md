@@ -35,6 +35,9 @@ The rest of the text (mostly larger Markdown text blocks) can be found in folder
     -   map.md
     
     -   about.md
+    
+    -   big5.tsv
+
 3.  Add a new column to each of the tsv files in www/ (appText, countries, occupationList, questions, job), using the same abbreviation as its header.
 
 ### Tweaking text

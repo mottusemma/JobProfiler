@@ -1,6 +1,6 @@
 ### Häufig gestellte Fragen
 
-**Kann ich die Ergebnisse als Berufsberatung interpretieren?
+**Kann ich die Ergebnisse als Berufsberatung interpretieren?**
 
 Nein! **Diese App bietet keine Berufsberatung**. Eine solche Beratung kann nur von zertifizierten Fachkräften durchgeführt werden. Die Ergebnisse können Ihnen jedoch helfen, mehr über sich selbst zu erfahren. Die Resultate können zutreffen oder nicht, und wir empfehlen, sie nur als eine Informationsquelle über sich selbst zu betrachten – und nur, wenn sie in Ihren einzigartigen Lebensumständen sinnvoll erscheinen.
 

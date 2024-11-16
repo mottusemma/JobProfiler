@@ -41,3 +41,9 @@ body {
 #logo {
   margin-bottom: 10px;
 }
+
+.btn-custom-class {
+  margin-bottom: 5px;
+  margin-right: 5px;
+  outline: 1px solid #50C878;
+}

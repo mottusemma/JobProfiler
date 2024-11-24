@@ -1,10 +1,10 @@
 ID	en	et	zh	bp	ru	de	jp
-sc1	Very false	Täiesti vale	非常不符合	Muito falso	Совершенно неверно	Sehr falsch	全くあてはまらない
-sc2	Quite false	Üsna vale	比较不符合	Bastante falso	Неверно	Ziemlich falsch	あてはまらない
-sc3	Slightly false	Pigem vale	稍微不符合	Um pouco falso	Скорее неверно	Leicht falsch	少しあてはまらない
-sc4	Slightly true	Pigem õige	稍微符合	Um pouco verdadeiro	Скорее верно	Leicht wahr	少しあてはまる
-sc5	Quite true	Üsna õige	比较符合	Bastante verdadeiro	Верно	Ziemlich richtig	あてはまる
-sc6	Very true	Täiesti õige	非常符合	Muito verdadeiro	Совершенно верно	Sehr wahr	とてもあてはまる
+sc1	Very false	Täiesti vale	非常不符合	Muito falso	Совершенно неверно	Sehr unzutreffend	全くあてはまらない
+sc2	Quite false	Üsna vale	比较不符合	Bastante falso	Неверно	Unzutreffend	あてはまらない
+sc3	Slightly false	Pigem vale	稍微不符合	Um pouco falso	Скорее неверно	Eher unzutreffend	少しあてはまらない
+sc4	Slightly true	Pigem õige	稍微符合	Um pouco verdadeiro	Скорее верно	Eher zutreffend	少しあてはまる
+sc5	Quite true	Üsna õige	比较符合	Bastante verdadeiro	Верно	Zutreffend	あてはまる
+sc6	Very true	Täiesti õige	非常符合	Muito verdadeiro	Совершенно верно	Sehr zutreffend	とてもあてはまる
 title	Your personality among different jobs	Teie isiksus ja erinevad tööd	您的性格与不同工作的契合度	Sua personalidade em diferentes empregos	Ваша личность и различные профессии	Ihre Persönlichkeit in verschiedenen Berufen	さまざまな職業におけるあなたの性格
 descr	Personality profile fit test: see how your Big Five personality traits match over 250 jobs. Based on a scientific study of nearly 70,000 people.	Isiksuseprofiili sobivuse test: vaata, kuidas sinu Suure Viisiku omadused sobivad enam kui 250 tööga. Põhineb ligi 70,000 inimest hõlmanud teadusuuringul	性格特质匹配度测试：了解您的大五人格（性格）特质与 250 多种工作的匹配程度。基于近 7 万人样本的科学研究。	Teste de adequação de perfil de personalidade: veja como seus traços de personalidade baseados no Big Five se encaixam em mais de 250 profissões. Baseado em um estudo científico com quase 70.000 pessoas	Тест на соответствие профиля личности: узнайте, насколько Ваши черты личности """"""""Большой пятерки"""""""" совпадают с более чем 250 профессиями. Основано на научном исследовании более чем 70 000 человек.	Persönlichkeitsprofil-Übereinstimmungstest: Sehen Sie, wie Ihre Big Five-Persönlichkeitsmerkmale mit über 250 Jobs übereinstimmen. Basierend auf einer wissenschaftlichen Studie mit fast 70.000 Menschen.	性格プロファイル一致度テスト：あなたのビッグファイブ性格特性が250以上の職業とどの程度一致するかを確認できます。約7万人を対象とした科学的研究に基づいています。
 subject	Your personality traits compared to hundreds of jobs	Teie isiksuseomadused võrrelduna sadade ametitega	您的性格特质与数百种工作的比较	Seus traços de personalidade comparados a centenas de profissões	Ваши черты личности в сравнении с сотнями профессий	Ihre Persönlichkeitsmerkmale im Vergleich zu Hunderten von Berufen	さまざまな職業と比較したあなたの性格特性
@@ -18,7 +18,7 @@ int2	Your age	Teie vanus	您的年龄	Sua idade	Ваш возраст	Ihr Alter	
 int3	Which country do you live in?	Mis maal te elate?	您目前居住在哪个国家？	Em que país você mora?	В какой стране Вы живете?	In welchem Land leben Sie?	お住まいの国をお答えください。
 int4	Do you have a job?	Kas te töötate?	您目前有工作吗？	Você tem um emprego?	У Вас есть работа?	Haben Sie einen Beruf?	現在、お仕事に就かれていますか。
 int5	What is your job title?	Millist tööd te teete?	您的工作职位是什么？	Qual é o seu cargo?	Какая у Вас должность?	Wie lautet Ihre Berufsbezeichnung?	あなたの役職をお答えください。
-int6	Are you happy with your job?	Kas te olete oma tööga rahul?	您对您的工作感到满意？	Você esta satisfeito com seu emprego?	Вы довольны своей работой?	Sind Sie zufrieden mit Ihrem Beruf?	あなたは今のお仕事で幸せを感じますか。
+int6	Are you happy with your job?	Kas te olete oma tööga rahul?	您对您的工作感到满意？	Você esta satisfeito com seu emprego?	Вы довольны своей работой?	Wie sehr stimmen Sie dieser Aussage zu: Ich bin mit meinem Beruf zufrieden.	あなたは今のお仕事で幸せを感じますか。
 mat1	Now we ask you to rate 74 statements about your personality.	Nüüd palume teil hinnata 74 isiksuseomadusi kirjeldavat väidet.	现在请您对74项关于自身性格特质的陈述进行评估。	Agora pedimos que você avalie 74 afirmações sobre sua personalidade.	Теперь мы просим Вас оценить 74 утверждения о Вашей личности.	Nun bitten wir Sie, 74 Aussagen über Ihre Persönlichkeit einzuschätzen.	それでは、あなたの性格について74のご質問をいたします。
 mat2	Please rate how well each statement describes you generally.	Palun hinnake, kui hästi iga väide kirjeldab seda, milline te tavaliselt olete.	请评定每项陈述与您的符合程度。	Por favor, avalie quanto cada afirmação descreve você de forma geral.	Пожалуйста, оцените, насколько каждое утверждение описывает то, каким Вы в целом являетесь.	Bitte bewerten Sie, wie gut jede Aussage Sie im Allgemeinen beschreibt.	それぞれの文が普段のあなたにどの程度あてはまるかご回答ください。
 mat3	Please answer as carefully and honestly as you can. Your results’ accuracy depends on the responses.	Palun vastake nii põhjalikult ja ausalt, kui saate. Sellest sõltub teie tulemuste tõepärasus.	请尽可能仔细和诚实地回答。结果的准确性取决于您的回答。	Por favor, responda com o máximo de cuidado e honestidade possível. A precisão dos resultados depende das suas respostas.	Пожалуйста, отвечайте как можно внимательнее и честнее. Точность результатов зависит от Ваших ответов.	Bitte antworten Sie so sorgfältig und ehrlich wie möglich. Die Genauigkeit Ihrer Ergebnisse hängt von den Antworten ab.	できるだけ注意深く、正直にお答えください。結果の正確さはご回答によって左右されます。

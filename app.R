@@ -54,7 +54,8 @@ language <- tabPanel("languageTab",
                           imageOutput("applogo", height = "fit-content"),
                           radioGroupButtons("lang", choiceNames = langOptions$language, choiceValues = langOptions$suffix, individual = TRUE, selected = character(0), status = "custom-class"),
                           actionButton("langOK", "OK", disabled = TRUE),
-                          "Find out which jobs are a good match for your personality traits"
+                          "Find out which jobs are a good match for your personality traits",
+                          a(href="https://whichjob.me", "whichjob.me")
                      ))
 
 disclaimer <- tabPanel("disclaimerTab",

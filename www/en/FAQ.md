@@ -38,4 +38,4 @@ The statements describing various personality characteristics were selected to a
 
 **Are the app source code and data open?**
 
-Yes. The source code will be available on [Gitlab](https://github.com/mottusemma/JobProfiler) and the fully anonymous data will be publicly available throught the [Open Science Framework](https://osf.io/mvzd4/).
+Yes. The source code will be available on [Gitlab](https://github.com/mottusemma/JobProfiler) and the fully anonymous data will be publicly available through the [Open Science Framework](https://osf.io/mvzd4/).

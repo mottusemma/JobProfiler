@@ -340,7 +340,7 @@ server <- function(input, output, session) {
     response2D <- normedItems %*% itemCors %*% weights
     B5scores <- normedItems %*% itemCors %*% weightsBig5
     
-    timestamp <- as.numeric(Sys.time())*1000
+    timestamp <- Sys.time()
     response <- cbind(data.frame(ownSession, sharedSession(), timestamp, input$lang, input$completion, sharedYN, sharedBy, input$gender,input$age, country, jobYN,job,jobLength,jobHappy), matrixResponses)
     write_tsv(response, paste0("participantResponses/", ownSession, "_", timestamp, ".tsv", collapse = ""), append = FALSE, col_names = FALSE)
 

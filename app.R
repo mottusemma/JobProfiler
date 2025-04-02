@@ -159,6 +159,7 @@ results <- tabPanel("resultsTab",
 # Application UI
 ui <- page_fluid(
   tags$title("Your personality among different jobs"),
+  uiOutput("rtlCSS"),
   tags$head(includeCSS("www/style.css")),
   theme = bs_theme(bootswatch = "minty"),
   shinyFeedback::useShinyFeedback(),
@@ -261,6 +262,31 @@ server <- function(input, output, session) {
     
     updateTabsetPanel(inputId = "appTabs", selected = "disclaimerTab")
     })
+  
+  # Dynamically apply right-to-left styling if Arabic is selected
+  
+  output$rtlCSS <- renderUI({
+    req(lang())
+    if (lang() == "ar") {
+      tags$style(HTML("
+        body, .pages {
+          direction: rtl;
+          text-align: right;
+          font-family: 'Cairo', 'Tahoma', 'Arial', sans-serif;
+        }
+        .form-control, .selectize-input, .btn, .radio, .checkbox {
+          text-align: right !important;
+        }
+        .card h5, .card h4, .card p, li {
+          text-align: right !important;
+        }
+        .radioMatrixTable td, .radioMatrixTable th {
+          direction: rtl;
+          text-align: center;
+        }
+      "))
+    }
+  })
   
   # Disclaimer page
   observeEvent(input$about, {

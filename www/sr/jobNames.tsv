@@ -1,0 +1,264 @@
+group	job
+Vojska	Vojna zanimanja
+Rukovodioci	Rukovodioci
+Rukovodioci	Samozaposleni/Vlasnici preduzetničkih radnji
+Rukovodioci	Rukovodioci odeljenja/sektora, nespecifikovano
+Rukovodioci	Samozaposleni/Preduzetnici
+Rukovodioci	Članovi upravnog odbora, nespecifikovano
+Rukovodioci	Vođe timova, nespecifikovano
+Rukovodioci	Zamenici rukovodioca, nespecifikovano
+Rukovodioci	Rukovodioci za održavanje/Savetnici, nerazvrstani na drugom mestu
+Rukovodioci	Visoki državni zvaničnici
+Rukovodioci	Finansijski rukovodioci
+Rukovodioci	Rukovodioci za ljudske resurse
+Rukovodioci	Rukovodioci za poslovne usluge i administraciju, nerazvrstani na drugom mestu
+Rukovodioci	Rukovodioci za prodaju i marketing
+Rukovodioci	Rukovodioci za odnose s javnošću i propagandu
+Rukovodioci	Rukovodioci za istraživanje i razvoj
+Rukovodioci	Rukovodioci za proizvodnju
+Rukovodioci	Rukovodioci u građevinarstvu 
+Rukovodioci	Rukovodioci nabavke i distribucije i srodni
+Rukovodioci	Rukovodioci informaciono-komunikacionih tehnologija
+Rukovodioci	Rukovodioci stručnih službi za brigu o detetu
+Rukovodioci	Rukovodioci stručnih službi u zdravstvu
+Rukovodioci	Rukovodioci stručnih službi za socijalnu zaštitu i resocijalizaciju
+Rukovodioci	Rukovodioci u obrazovanju
+Rukovodioci	Rukovodioci istraživačkih organizacija, ustanova kulture i drugi
+Rukovodioci	Rukovodioci hotela
+Rukovodioci	Rukovodioci restorana
+Rukovodioci	Rukovodioci u trgovini na veliko i malo
+Rukovodioci	Rukovodioci sportskih, rekreativnih i kulturnih cenatara
+Rukovodioci	Rukovodioci u ostalim uslužnim delatnostima, nerazvrstani na drugom mestu
+Stručnjaci i umetnici	Projekt menadžer, nespecifikovano
+Stručnjaci i umetnici	Stručnjaci, nespecifikovano
+Stručnjaci i umetnici	Analitičari, nespecikovano
+Stručnjaci i umetnici	Stručni konsultanti, nespecifikovano
+Stručnjaci i umetnici	Stručni savetnici, nespecifikovano
+Stručnjaci i umetnici	Menadžer proizvoda, nespecifikovano
+Stručnjaci i umetnici	Stručnjaci kontole kvaliteta, nespecifikovano
+Stručnjaci i umetnici	Hemičari i fizikohemičari
+Stručnjaci i umetnici	Matematičari, aktuari (stručnjaci osiguranaja) i statističari
+Stručnjaci i umetnici	Biolozi, botaničari, zoolozi i srodni stručnjaci
+Stručnjaci i umetnici	Stručnjaci i savetnici u oblasti poljoprivrede, šumarstva i ribarstva
+Stručnjaci i umetnici	Stručnjaci za zaštitu životne sredine
+Stručnjaci i umetnici	Inženjeri, nespecifikovano
+Stručnjaci i umetnici	Industrijski i procesni inženjeri
+Stručnjaci i umetnici	Građevinski inženjeri
+Stručnjaci i umetnici	Mašinski inženjeri
+Stručnjaci i umetnici	Hemijski inženjeri i prehrambeni tehnolozi
+Stručnjaci i umetnici	Stručnjaci tehničkih nauka (osim elektrotehničkih), nerazvrstani na drugom mestu
+Stručnjaci i umetnici	Inženjeri elektrotehnike i elektroenergetike
+Stručnjaci i umetnici	Inženjeri elektronike
+Stručnjaci i umetnici	Arhitekte
+Stručnjaci i umetnici	Arhitekte za pejzažnu arhitekturu
+Stručnjaci i umetnici	Dizajneri proizvoda i odevnih predmeta
+Stručnjaci i umetnici	Urbanisti, saobraćajni inženjeri i projektanti
+Stručnjaci i umetnici	Kartografi i geodeti
+Stručnjaci i umetnici	Grafički i multimedijski dizajneri
+Stručnjaci i umetnici	Zdravstveni stručnjaci, nespecifikovano
+Stručnjaci i umetnici	Doktori medicine, nespecifikovano
+Stručnjaci i umetnici	Doktori opšte medicine
+Stručnjaci i umetnici	Doktori medicine - specijalisti
+Stručnjaci i umetnici	Više medicinske sestre
+Stručnjaci i umetnici	Više akušerske sestre
+Stručnjaci i umetnici	Doktori veterinarske medicine
+Stručnjaci i umetnici	Stomatolozi
+Stručnjaci i umetnici	Farmaceuti
+Stručnjaci i umetnici	Fizioterapeuti
+Stručnjaci i umetnici	Audiolozi i logopedi
+Stručnjaci i umetnici	Zdravstveni stručnjaci, nerazvrstani na drugom mestu
+Stručnjaci i umetnici	Stručnjaci za obrazovanje i vaspitanje, nespecifikovano
+Stručnjaci i umetnici	Nastavno osoblje na visokoškolskim ustanovama
+Stručnjaci i umetnici	Istraživači, nerazvrstani na drugom mestu
+Stručnjaci i umetnici	Nastavnici srednjeg stručnog obrazovanja
+Stručnjaci i umetnici	Nastavnici srednjeg opšteg i umetničkog obrazovanja
+Stručnjaci i umetnici	Nastavnici u osnovnom obrazovanju
+Stručnjaci i umetnici	Vaspitači u predškolskom vaspitanju i obrazovanju
+Stručnjaci i umetnici	Nastavnici jezika, muzike i umetnosti nerazvrstani na drugom mestu
+Stručnjaci i umetnici	Andragozi, pedagozi i stručnjaci za sistematska pitanja obrazovanja i vaspitanja
+Stručnjaci i umetnici	Stručnjaci i nastavnici za osobe sa smetnjama u razvoju
+Stručnjaci i umetnici	Nastavnici jezika
+Stručnjaci i umetnici	Nastavnici, nerazvrstani na drugom mestu
+Stručnjaci i umetnici	Stručnjaci za obrazovanje i vaspitanje, nerazvrstani na drugom mestu
+Stručnjaci i umetnici	Računovodstveni stručnjaci
+Stručnjaci i umetnici	Finansijski i investicioni savetnici
+Stručnjaci i umetnici	Finansijski analitičari i srodni
+Stručnjaci i umetnici	Analitičari organizacije i upravljanja
+Stručnjaci i umetnici	Stručnjaci za javnu politiku
+Stručnjaci i umetnici	Stručnjaci za kadrove i karijerni razvoj
+Stručnjaci i umetnici	Stručnjaci za obuku i profesionalni razvoj
+Stručnjaci i umetnici	Stručnjaci za marketing i oglašavanje
+Stručnjaci i umetnici	Stručnjaci za odnose sa javnošću
+Stručnjaci i umetnici	Sistem-analitičari
+Stručnjaci i umetnici	Stručnjaci za razvoj softvera
+Stručnjaci i umetnici	Stručnjaci za razvoj Internetskih aplikacija i multimedijalnih sadržaja
+Stručnjaci i umetnici	Stručnjaci za razvoj softvera i aplikacija i analitičari, nerazvrstani na drugom mestu
+Stručnjaci i umetnici	Dizajneri i administratori baza podataka
+Stručnjaci i umetnici	Sistem-administratori
+Stručnjaci i umetnici	Stručnjaci za baze podataka i mreže, nerazvrstani na drugom mestu
+Stručnjaci i umetnici	Advokati
+Stručnjaci i umetnici	Sudije
+Stručnjaci i umetnici	Pravnici
+Stručnjaci i umetnici	Arhivisti i kustosi
+Stručnjaci i umetnici	Bibliotekari, dokumentalisti i srodni
+Stručnjaci i umetnici	Stručnjaci ekonomije
+Stručnjaci i umetnici	Psiholozi
+Stručnjaci i umetnici	Stručnjaci za socijalni rad i savetovanje
+Stručnjaci i umetnici	Verski stručnjaci, velikodostojnici i teolozi
+Stručnjaci i umetnici	Urednici, nespecifikovano (text, book etc.)
+Stručnjaci i umetnici	Književnici i srodni
+Stručnjaci i umetnici	Novinari i urednici
+Stručnjaci i umetnici	Prevodioci, tumači i ostali lingvisti
+Stručnjaci i umetnici	Vizuelni umetnici
+Stručnjaci i umetnici	Muzičari-instrumentalisti, pevači i kompozitori
+Stručnjaci i umetnici	Filmski i pozorišni režiseri, producenti i srodni 
+Stručnjaci i umetnici	Glumci
+Tehničari i saradnici stručnjaka	Saradnici stručnjaka, nespecifikovano
+Tehničari i saradnici stručnjaka	Tehničari, nespecifikovano
+Tehničari i saradnici stručnjaka	Šefovi smena, nespecifikovano
+Tehničari i saradnici stručnjaka	Šefovi, nespecifikovano
+Tehničari i saradnici stručnjaka	Laboratorijski tehničari, nespecifikovano
+Tehničari i saradnici stručnjaka	Inspektori, nespecifikovano
+Tehničari i saradnici stručnjaka	Službenici, nespecifikovano
+Tehničari i saradnici stručnjaka	Saradnici i tehničari u građevinarstvu, arhitekturi i geodeziji
+Tehničari i saradnici stručnjaka	Saradnici i tehničari u elektrotehnici
+Tehničari i saradnici stručnjaka	Saradnici i tehničari u mašinstvu
+Tehničari i saradnici stručnjaka	Tehnički crtači
+Tehničari i saradnici stručnjaka	Nadzornici u rudarstvu, prerađivačkoj industriji i građevinarstvu
+Tehničari i saradnici stručnjaka	Nadzornici proizvodnje u prerađivačkoj industriji
+Tehničari i saradnici stručnjaka	Građevinski nadzornici
+Tehničari i saradnici stručnjaka	Tehničari kontrole procesa-procesni tehničari
+Tehničari i saradnici stručnjaka	Saradnici i tehničari u biološkim naukama i srodna zanimanja (osim medicinskih)
+Tehničari i saradnici stručnjaka	Saradnici i tehničari u šumarstvu
+Tehničari i saradnici stručnjaka	Brodski tehničari
+Tehničari i saradnici stručnjaka	Brodski oficiri palube i navigatori
+Tehničari i saradnici stručnjaka	Piloti aviona i srodna zanimanja
+Tehničari i saradnici stručnjaka	Kontrolori letenja
+Tehničari i saradnici stručnjaka	Tehničari za terapeutsku opremu i medicinska snimanja
+Tehničari i saradnici stručnjaka	Tehničari medicinske laboratorije
+Tehničari i saradnici stručnjaka	Medicinski i zubni protetičari
+Tehničari i saradnici stručnjaka	Stomatološke sestre-tehničari
+Tehničari i saradnici stručnjaka	Optičari
+Tehničari i saradnici stručnjaka	Fizioterapeutski tehničari i saradnici
+Tehničari i saradnici stručnjaka	Medicinski pomoćnici
+Tehničari i saradnici stručnjaka	Inspektori i saradnici za zaštitu životne sredine i zdravlje na radu
+Tehničari i saradnici stručnjaka	Tehničari u hitnoj pomoći i srodni radnici
+Tehničari i saradnici stručnjaka	Saradnici za kreditne poslove i zajmove
+Tehničari i saradnici stručnjaka	Saradnici računovodstva i knjigovodstva
+Tehničari i saradnici stručnjaka	Saradnici u statistici, matematici i aktuarstvu
+Tehničari i saradnici stručnjaka	Procenitelji vrednosti i procenitelji štete
+Tehničari i saradnici stručnjaka	Zastupnici osiguranja
+Tehničari i saradnici stručnjaka	Komercijalni i trgovinski zastupnici
+Tehničari i saradnici stručnjaka	Nabavljači
+Tehničari i saradnici stručnjaka	Špediteri i agenti za kliring
+Tehničari i saradnici stručnjaka	Organizatori konferencija i događaja
+Tehničari i saradnici stručnjaka	Posrednici u zapošljavanju
+Tehničari i saradnici stručnjaka	Agenti za nekretnine
+Tehničari i saradnici stručnjaka	Šefovi administrativnih poslova
+Tehničari i saradnici stručnjaka	Administrativni i izvršni sekretari
+Tehničari i saradnici stručnjaka	Carinski, poreski inspektori i srodni referenti
+Tehničari i saradnici stručnjaka	Carinici i pogranični inspektori
+Tehničari i saradnici stručnjaka	Policijski inspektori i detektivi
+Tehničari i saradnici stručnjaka	Carinski, poreski i srodni službenici nerazvrstani na drugom mestu
+Tehničari i saradnici stručnjaka	Saradnici u oblasti prava i srodni
+Tehničari i saradnici stručnjaka	Saradnici u oblasti socijalnog rada
+Tehničari i saradnici stručnjaka	Sportski treneti, instruktori, sudije i srodni
+Tehničari i saradnici stručnjaka	Instruktori fitnesa i rekreacije i voditelji sportskih aktivnosti
+Tehničari i saradnici stručnjaka	Fotografi
+Tehničari i saradnici stručnjaka	Dizajneri enterijera i dekorateri
+Tehničari i saradnici stručnjaka	Glavni kuvari
+Tehničari i saradnici stručnjaka	Scenski saradnici, izvođači i ostali nerazvrstani na drugom mestu
+Tehničari i saradnici stručnjaka	Tehničari za informaciono-komunikacione tehnologije (IKT)
+Tehničari i saradnici stručnjaka	Tehničari telekomunikacija i emitovanja
+Administrativni službenici	Službenici za opšte administrativne poslove i operateri na tastaturi, nespecifikovano
+Administrativni službenici	Sekretari za opšte administrativne poslove
+Administrativni službenici	Službenici za unos podataka
+Administrativni službenici	Službenici za rad sa strankama, nespecifikovano
+Administrativni službenici	Bankarski službenik
+Administrativni službenici	Naplaćivači dugova i srodni
+Administrativni službenici	Službenici turističkih agencija i srodni
+Administrativni službenici	Hotelski recepcioneri
+Administrativni službenici	Službenici za zahteve i reklamacije
+Administrativni službenici	Recepcioneri na prijavnicama
+Administrativni službenici	Anketari
+Administrativni službenici	Računovodstveni i knjigovodstveni službenici
+Administrativni službenici	Službenici za obračun zarada
+Administrativni službenici	Skladištari
+Administrativni službenici	Službenici koordiniranja i evidentiranja transporta
+Administrativni službenici	Poštari - službenici na obavljanju poštanskih usluga
+Administrativni službenici	Službenici za razvrstavanje, arhiviranje i kopiranje dokumenata
+Administrativni službenici	Službenici za kadrovske poslove
+Uslužna i trgovačka zanimanja	Zemaljski, avio i brodski stjuardi
+Uslužna i trgovačka zanimanja	Turistički vodiči i pratioci na putovanjima
+Uslužna i trgovačka zanimanja	Kuvari
+Uslužna i trgovačka zanimanja	Konobari i barmeni
+Uslužna i trgovačka zanimanja	Frizeri i srodna zanimanja
+Uslužna i trgovačka zanimanja	Kozmetičari i srodna zanimanja
+Uslužna i trgovačka zanimanja	Nadzornici održavanja čistiće u poslovnim prostorima
+Uslužna i trgovačka zanimanja	Kućepazitelji u stambenim i poslovnim zgradama
+Uslužna i trgovačka zanimanja	Zanimanja za negu i čuvanje životinja
+Uslužna i trgovačka zanimanja	Instruktori vožnje drumskih motornih vozila
+Uslužna i trgovačka zanimanja	Trgovačka i srodna zanimanja, nerazvrstana na drugom mestu
+Uslužna i trgovačka zanimanja	Prodavci na tezgama i pijacama
+Uslužna i trgovačka zanimanja	Prodavci i trgovci u prodavnicama
+Uslužna i trgovačka zanimanja	Kasiri i bilateri
+Uslužna i trgovačka zanimanja	Prodavci kataloške prodaje
+Uslužna i trgovačka zanimanja	Trgovačka i srodna zanimanja, nerazvrstana na drugom mestu
+Uslužna i trgovačka zanimanja	Zanimanja za negu i čuvanje dece
+Uslužna i trgovačka zanimanja	Pedagoški asistenti
+Uslužna i trgovačka zanimanja	Zanimanja za ličnu zdravstvenu negu i pomoć u zdravstvenim i srodnim ustanovama
+Uslužna i trgovačka zanimanja	Zanimanja za ličnu zdravstvenu negu i pomoć, nerazvrstana na drugom mestu
+Uslužna i trgovačka zanimanja	Vatrogasci
+Uslužna i trgovačka zanimanja	Policajci
+Uslužna i trgovačka zanimanja	Stražari
+Uslužna i trgovačka zanimanja	Radnici fizičko-tehničkog obezbeđenja
+Poljoprivrednici, šumari, ribari i srodni	Baštovani, rasadničari i zanimanja hortikulture
+Poljoprivrednici, šumari, ribari i srodni	Uzgajivači stoke i proizvođači mleka
+Poljoprivrednici, šumari, ribari i srodni	Tržišno orijentisani ratarsko-stočarski proizvođači
+Poljoprivrednici, šumari, ribari i srodni	Šumari i srodni
+Zanatlije i srodni	Zanatlije i kvalifikovani radnici, nespecifikovano
+Zanatlije i srodni	Graditelji manjih montažnih objekata
+Zanatlije i srodni	Tesari i građevinski stolari
+Zanatlije i srodni	Izvođači osnovnih građevinskih radova, nespecifikovano
+Zanatlije i srodni	Vodoinstalateri i monteri cevovoda
+Zanatlije i srodni	Moleri i srodni
+Zanatlije i srodni	Farbari i lakireri
+Zanatlije i srodni	Kalupari, livci, zavarivači, limari, monteri metalnih konstrukcija i srodni
+Zanatlije i srodni	Zavarivači i rezači plamenom
+Zanatlije i srodni	Limari
+Zanatlije i srodni	Alatničari i srodni
+Zanatlije i srodni	Mehaničari mašina i serviseri
+Zanatlije i srodni	Auto-mehaničari
+Zanatlije i srodni	Umetničke zanatlije ručnim alatima
+Zanatlije i srodni	Zanimanje pripreme za štampu
+Zanatlije i srodni	Štampari
+Zanatlije i srodni	Električari i elektroinstalateri u poslovnim objektima
+Zanatlije i srodni	Serviser elektroopreme
+Zanatlije i srodni	Mehaničari i serviseri elektronskih mašina, instrumenata i opreme
+Zanatlije i srodni	Mesari i srodni
+Zanatlije i srodni	Pekari, poslastičari i srodni
+Zanatlije i srodni	Obrađivači drveta, stolari i srodni
+Zanatlije i srodni	Stolari i srodni
+Zanatlije i srodni	Krojači, krznari i šeširdžije
+Zanatlije i srodni	Modelari, šabloneri i rezači odeće i srodni
+Zanatlije i srodni	Šivači, vezilje i srodni
+Zanatlije i srodni	Obućari, kožni galanteristi i srodni
+Zanatlije i srodni	Ispitivači kvaliteta i ocenjivači proizvoda, osim hrane i pića
+Rukovaoci mašina i postrojenja, monteri i vozači	Rukovaoci, nespecifikovano
+Rukovaoci mašina i postrojenja, monteri i vozači	Rukovaoci stabilnim mašinama i postrojenjima
+Rukovaoci mašina i postrojenja, monteri i vozači	Monteri elektične i elektronske opreme
+Rukovaoci mašina i postrojenja, monteri i vozači	Monteri proizvoda, nerazvrstani na drugom mestu
+Rukovaoci mašina i postrojenja, monteri i vozači	Vozači automobila, taksija i dostavnih vozila
+Rukovaoci mašina i postrojenja, monteri i vozači	Vozači autobusa, trolejbusa i tramvaja
+Rukovaoci mašina i postrojenja, monteri i vozači	Vozači teških teretnih vozila i kamiona
+Rukovaoci mašina i postrojenja, monteri i vozači	Rukovaoci poljiprivrednom i šimskom mehanizacijom
+Rukovaoci mašina i postrojenja, monteri i vozači	Rukovaoci mehanizacijom za zemljane radove i srodni
+Rukovaoci mašina i postrojenja, monteri i vozači	Rukovaoci dizalicama, kranovima i srodni
+Rukovaoci mašina i postrojenja, monteri i vozači	Bordska posada i srodni
+Jednostavka zanimanja	Jednostavna zanimanja
+Jednostavka zanimanja	Čistači i pomoćno osoblje u domaćinstvima i poslovnim prostorima
+Jednostavka zanimanja	Jednostavna zanimanja u vrtlarstvu i hortikulturi
+Jednostavka zanimanja	Jednostavna zanimanja u prerađivačkoj industriji
+Jednostavka zanimanja	Jednostavna zanimanja u transportu i skladištenju
+Jednostavka zanimanja	Kuhinjski pomoćnici
+Jednostavka zanimanja	Jednostavna zanimanja, nerazvrstana na drugom mestu

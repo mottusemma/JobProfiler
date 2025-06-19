@@ -1,0 +1,264 @@
+group	job
+Sotilaat	Sotilasammatit
+Johtajat	Johtajat
+Johtajat	Itsensä Työllistävät/Yksityinen Elinkeinonharjoittaja
+Johtajat	Määrittelemättömät Osastopäälliköt
+Johtajat	Itsensä Työllistävät/Yrittäjät
+Johtajat	Määrittelemättömät Hallituksen Jäsenet
+Johtajat	Määrittelemättömät Tiiminvetäjät
+Johtajat	Määrittelemättömät Varajohtajat
+Johtajat	Kunnossapidon Johtajat/Neuvojat, Ei Muualla Luokiteltu
+Johtajat	Julkishallinnon Ylimmät Virkamiehet
+Johtajat	Talousjohtajat
+Johtajat	Henkilöstöjohtajat
+Johtajat	Muut Hallintojohtajat ja Kaupalliset Johtajat
+Johtajat	Myynti- ja Markkinointijohtajat
+Johtajat	Mainos- ja Tiedotusjohtajat
+Johtajat	Tutkimus- ja kehitysjohtajat
+Johtajat	Teollisuuden Tuotantojohtajat
+Johtajat	Rakennustoiminnan Tuotantojohtajat
+Johtajat	Hankinta- ja Jakelujohtajat ym.
+Johtajat	Tieto- ja viestintäteknologiapalveluiden johtajat
+Johtajat	Lastenhoitopalveluiden johtajat
+Johtajat	Terveyspalveluiden johtajat
+Johtajat	Sosiaalipalveluiden johtajat
+Johtajat	Opetusjohtajat
+Johtajat	Tieto- ja Viestintäteknologiajohtajat
+Johtajat	Hotellinjohtajat
+Johtajat	Ravintolanjohtajat
+Johtajat	Vähittäis- ja Tukkukaupan Johtajat
+Johtajat	Urheilu-, Vapaa-aika- ja Kulttuurikeskusten Johtajat
+Johtajat	Muut Palvelualojen Johtajat
+Erityisasiantuntijat	Määrittelemättömät Projektijohtajat
+Erityisasiantuntijat	Määrittelemättömät Erityisasiantuntijat
+Erityisasiantuntijat	Määrittelemättömät Analyytikot
+Erityisasiantuntijat	Määrittelemättömät Konsultit
+Erityisasiantuntijat	Määrittelemättömät Neuvonantajat
+Erityisasiantuntijat	Määrittelemättömät Tuotepäälliköt
+Erityisasiantuntijat	Määrittelemättömät Laatuspesialistit
+Erityisasiantuntijat	Kemistit
+Erityisasiantuntijat	Matemaatikot, Aktuaarit ja Tilastotieteilijät
+Erityisasiantuntijat	Biologit, Kasvi- ja Eläintieteilijät ym. Erityisasiantuntijat
+Erityisasiantuntijat	Maa-, Metsä- ja Kalatalouden erityisasiantuntijat
+Erityisasiantuntijat	Ympäristön- ja Luonnonsuojelun Erityisasiantuntijat
+Erityisasiantuntijat	(Määrittelemättömät) Tekniikan Erityisasiantuntijat
+Erityisasiantuntijat	Teollisen Valmistuksen ja Tuotantotekniikan Erityisasiantuntijat
+Erityisasiantuntijat	Maa- ja Vesirakentamisen Erityisasiantuntijat
+Erityisasiantuntijat	Konetekniikat Erityisasiantuntijat
+Erityisasiantuntijat	Puunjalostuksen ja Kemian Prosessitekniikan Erityisasiantuntijat
+Erityisasiantuntijat	Muut Tekniikan Erityisasiantuntijat
+Erityisasiantuntijat	Sähkötekniikan Erityisasiantuntijat
+Erityisasiantuntijat	Elektroniikan Erityisasiantuntijat
+Erityisasiantuntijat	Talonrakennuksen Arkkitehdit
+Erityisasiantuntijat	Maisema-arkkitehdit
+Erityisasiantuntijat	Tuote- ja Vaatesuunnittelijat
+Erityisasiantuntijat	Yhdyskunta- ja Liikennesuunnittelijat
+Erityisasiantuntijat	Kartoituksen ja Maanmittauksen Erityisasiantuntijat
+Erityisasiantuntijat	Graafiset ja Multimediasuunnittelijat
+Erityisasiantuntijat	Terveydenhuollon Erityisasiantuntijat (Määrittelemättömät)
+Erityisasiantuntijat	Lääkärit (Määrittelemättömät)
+Erityisasiantuntijat	Yleislääkärit
+Erityisasiantuntijat	Ylilääkärit ja Erikoislääkärit
+Erityisasiantuntijat	Ylihoitajat ja Osastonhoitajat
+Erityisasiantuntijat	Johtavat Kätilöt
+Erityisasiantuntijat	Eläinlääkärit
+Erityisasiantuntijat	Hammaslääkärit
+Erityisasiantuntijat	Proviisorit
+Erityisasiantuntijat	Fysioterapian Erityisasiantuntijat
+Erityisasiantuntijat	Kuulontutkijat ja Puheterapeutit
+Erityisasiantuntijat	Muut Terveydenhuollon Erityisasiantuntijat
+Erityisasiantuntijat	Määrittelemättömät Opettajat
+Erityisasiantuntijat	Yliopisto- ja Korkeakouluopettajat
+Erityisasiantuntijat	Muut Tutkimuksen Erityisasiantuntijat
+Erityisasiantuntijat	Ammatillisen Koulutuksen Opettajat
+Erityisasiantuntijat	Lukion ja Peruskoulun Yläluokkien Opettajat
+Erityisasiantuntijat	Peruskoulun Alaluokkien Opettajat
+Erityisasiantuntijat	Lastentarhanopettajat
+Erityisasiantuntijat	Muut Kielten, Musiikin, Taiteiden Opettajat (harrastuskoulut, yksityisopetus)
+Erityisasiantuntijat	Opetusmenetelmien Erityisasiantuntijat
+Erityisasiantuntijat	Erityisopettajat
+Erityisasiantuntijat	Kieltenopettajat
+Erityisasiantuntijat	Opinto-ohjaajat ja Muut Opetuksen Erityisasiantuntijat
+Erityisasiantuntijat	Muut Opetuksen ja Koulutuksen Erityisasiantuntijat
+Erityisasiantuntijat	Laskentatoimen Erityisasiantuntijat ja Tilintarkastajat
+Erityisasiantuntijat	Rahoitus- ja Sijoitusneuvojat
+Erityisasiantuntijat	Rahoitusanalyytikot
+Erityisasiantuntijat	Johtamisen ja Organisaatioiden Erityisasiantuntijat
+Erityisasiantuntijat	Hallinnon ja Elinkeinojen Kehittämisen Erityisasiantuntijat
+Erityisasiantuntijat	Henkilöstöhallinnon erityisasiantuntijat ja Urasuunnittelijat
+Erityisasiantuntijat	Henkilöstön Kehittämisen Erityisasiantuntijat ja Kouluttajat
+Erityisasiantuntijat	Mainonnan ja Markkinoinnin Erityisasiantuntijat
+Erityisasiantuntijat	Tiedottajat
+Erityisasiantuntijat	Sovellusarkkitehdit
+Erityisasiantuntijat	Sovellussuunnittelijat
+Erityisasiantuntijat	Web- ja Multimediakehittäjät
+Erityisasiantuntijat	Muut Ohjelmisto- ja Sovelluskehittäjät
+Erityisasiantuntijat	Tietokantasuunnittelijat ja -vastaavat
+Erityisasiantuntijat	Tietojärjestelmien Ylläpitäjät
+Erityisasiantuntijat	Muut Tietokanta- ja Tietoverkkojen Erityisasiantuntijat
+Erityisasiantuntijat	Asianajajat
+Erityisasiantuntijat	Tuomioistuinlakimiehet
+Erityisasiantuntijat	Lainopilliset Erityisasiantuntijat
+Erityisasiantuntijat	Arkistonhoitajat ja Museoalan Erityisasiantuntijat
+Erityisasiantuntijat	Kirjastonhoitajat ja Informaatikot ym.
+Erityisasiantuntijat	Ekonomistit
+Erityisasiantuntijat	Psykologit
+Erityisasiantuntijat	Sosiaalityön Erityisasiantuntijat
+Erityisasiantuntijat	Papit ym. Uskonnollisen Elämän Erityisasiantuntijat
+Erityisasiantuntijat	Määrittelemättömät Toimittajat (teksti, kirja jne.)
+Erityisasiantuntijat	Kirjailijat ym.
+Erityisasiantuntijat	Toimittajat
+Erityisasiantuntijat	Kääntäjät, Tulkit ja Muut Kielitieteilijät
+Erityisasiantuntijat	Kuvataiteilijat
+Erityisasiantuntijat	Muusikot, Laulajat ja Säveltäjät
+Erityisasiantuntijat	Ohjaajat ja Tuottajat
+Erityisasiantuntijat	Näyttelijät
+Asiantuntijat	Määrittelemättömät Asiantuntijat
+Asiantuntijat	Määrittelemättömät Teknikot
+Asiantuntijat	Määrittelemättömät Vuoropäälliköt
+Asiantuntijat	Määrittelemättömät Koordinaattorit
+Asiantuntijat	Määrittelemättömät Laboratorioteknikot/-assistentit
+Asiantuntijat	Määrittelemättömät Tarkastajat
+Asiantuntijat	Määrittelemättömät Virkamiehet
+Asiantuntijat	Rakentamisen Asiantuntijat
+Asiantuntijat	Sähkötekniikan Asiantuntijat
+Asiantuntijat	Konetekniikan Asiantuntijat
+Asiantuntijat	Tekniset Piirtäjät
+Asiantuntijat	Työnjohtajat Kaivos-, Teollisuus-, ja Rakennustoiminnassa
+Asiantuntijat	Teollisuuden Työnjohtajat
+Asiantuntijat	Rakennusalan Työnjohtajat
+Asiantuntijat	Prosessinvalvonnan Asiantuntijat
+Asiantuntijat	Laborantit ym.
+Asiantuntijat	Metsätalousteknikot
+Asiantuntijat	Laivojen Konepäälliköt ja -mestarit
+Asiantuntijat	Vesiliikenteen Perämiehet ja Päälliköt
+Asiantuntijat	Lentokapteenit ja Perämiehet
+Asiantuntijat	Lennonjohtajat
+Asiantuntijat	Lääketieteellisten Kuvantamis- ja Laitetekniikan Asiantuntijat
+Asiantuntijat	Bioanalyytikot (Terveydenhuolto)
+Asiantuntijat	Hammas- ja Apuvälineteknikot
+Asiantuntijat	Suuhygienistit
+Asiantuntijat	Optikot
+Asiantuntijat	Fysioterapeutit ym. (Hierojat)
+Asiantuntijat	Avustavat Hoitotyöntekijät
+Asiantuntijat	Ympäristö- ja työterveystarkastajat ja -avustajat
+Asiantuntijat	Sairaankuljetuksen Ensihoitajat
+Asiantuntijat	Luotto- ja Laina-asiantuntijat
+Asiantuntijat	Kirjanpidon ja Laskentatoimen Asiantuntijat
+Asiantuntijat	Tilastointi- ja Matematiikka-asiantuntijat
+Asiantuntijat	Arvioitsijat ja Vahinkotarkastajat
+Asiantuntijat	Vakuutusalan Palvelumyyjät
+Asiantuntijat	Myyntiedustajat
+Asiantuntijat	Sisäänostajat
+Asiantuntijat	Huolitsijat, Tulli- ja Laivanselvittäjät
+Asiantuntijat	Konferenssi- ja Tapahtumajärjestäjät
+Asiantuntijat	Työnvälittäjät
+Asiantuntijat	Kiinteistönvälittäjät ja Isännöitsijät
+Asiantuntijat	Toimistotyön Esimiehet
+Asiantuntijat	Johdon Sihteerit ja Osastosihteerit
+Asiantuntijat	Julkishallinnon Valmistelu- ja Valvontavirkamiehet (Määrittelemättömät)
+Asiantuntijat	Tulli- ja Rajavirkamiehet
+Asiantuntijat	Komisariot ja Ylikonstaapelit
+Asiantuntijat	Muut Julkishallinnon Valmistelu- ja Valvontavirkamiehet
+Asiantuntijat	Lainopilliset Asiantuntijat ja Järjestöalan Asiantuntijat
+Asiantuntijat	Sosiaalialan Ohjaajat ja Neuvojat ym.
+Asiantuntijat	Urheiluvalmentajat ja Toimitsijat
+Asiantuntijat	Liikunnan ja Vapaa-ajan Ohjaajat
+Asiantuntijat	Valokuvaajat
+Asiantuntijat	Sisustussuunnittelijat ym.
+Asiantuntijat	Keittiöpäälliköt
+Asiantuntijat	Muut Taide- ja Kulttuurialan Asiantuntijat
+Asiantuntijat	Käytön Operaattorit
+Asiantuntijat	Lähetys- ja Audiovisuaalitekniteknikot
+Toimisto- ja Asiakaspalvelutyöntekijät	Toimistotyöntekijät (Määrittelemättömät)
+Toimisto- ja Asiakaspalvelutyöntekijät	Yleissihteerit
+Toimisto- ja Asiakaspalvelutyöntekijät	Tallentajat
+Toimisto- ja Asiakaspalvelutyöntekijät	Määrittelemättömät Asiakaspalvelutyöntekijät
+Toimisto- ja Asiakaspalvelutyöntekijät	Pankkitoimihenkilöt
+Toimisto- ja Asiakaspalvelutyöntekijät	Maksunperijät
+Toimisto- ja Asiakaspalvelutyöntekijät	Matkatoimistovirkailijat
+Toimisto- ja Asiakaspalvelutyöntekijät	Hotellin Vastaanottovirkailijat
+Toimisto- ja Asiakaspalvelutyöntekijät	Informaatiopisteen asiakasneuvojat
+Toimisto- ja Asiakaspalvelutyöntekijät	Vastaanoton ja Neuvonnan Hoitajat
+Toimisto- ja Asiakaspalvelutyöntekijät	Tutkimus- ja Markkinatutkimushaastattelijat
+Toimisto- ja Asiakaspalvelutyöntekijät	Taloushallinnon Toimistotyöntekijät
+Toimisto- ja Asiakaspalvelutyöntekijät	Palkanlaskijat
+Toimisto- ja Asiakaspalvelutyöntekijät	Varastonhoitajat ym.
+Toimisto- ja Asiakaspalvelutyöntekijät	Kuljetuksen Toimistotyöntekijät
+Toimisto- ja Asiakaspalvelutyöntekijät	Postinkantajat ja Lajittelijat
+Toimisto- ja Asiakaspalvelutyöntekijät	Arkistotyöntekijät
+Toimisto- ja Asiakaspalvelutyöntekijät	Henkilöstöhallinnon Avustavat Toimistotyöntekijät
+Palvelu- ja Myyntityöntekijät	Lentoemännät, Purserit
+Palvelu- ja Myyntityöntekijät	Matkaoppaat
+Palvelu- ja Myyntityöntekijät	Kokki
+Palvelu- ja Myyntityöntekijät	Tarjoilijat
+Palvelu- ja Myyntityöntekijät	Kampaajat ja Parturit
+Palvelu- ja Myyntityöntekijät	Kosmetologit ym.
+Palvelu- ja Myyntityöntekijät	Siivoustyön Esimiehet Toimistoissa, Hotelleissa ja Muissa Laitoksissa
+Palvelu- ja Myyntityöntekijät	Kiinteistöhuollon Työntekijät
+Palvelu- ja Myyntityöntekijät	Eläintenhoitajat ja Lemmikkieläinten Trimmaajat
+Palvelu- ja Myyntityöntekijät	Ajo-opettajat
+Palvelu- ja Myyntityöntekijät	Määrittelemättömät Myyntityöntekijät
+Palvelu- ja Myyntityöntekijät	Kioski- ja Torimyyjät
+Palvelu- ja Myyntityöntekijät	Myyjät
+Palvelu- ja Myyntityöntekijät	Kassanhoitajat ja Lipunmyyjät
+Palvelu- ja Myyntityöntekijät	Puhelin- ja Asiakaspalvelukeskusten Myyjät
+Palvelu- ja Myyntityöntekijät	Muut Muualla Luokittelemattomat Myyntityöntekijät
+Palvelu- ja Myyntityöntekijät	Lastenhoitotyöntekijät
+Palvelu- ja Myyntityöntekijät	Koulunkäyntiavustajat
+Palvelu- ja Myyntityöntekijät	Lähihoitajat
+Palvelu- ja Myyntityöntekijät	Muut Terveydenhuoltoalan Työntekijät
+Palvelu- ja Myyntityöntekijät	Palomiehet
+Palvelu- ja Myyntityöntekijät	Poliisit
+Palvelu- ja Myyntityöntekijät	Vanginvartijat
+Palvelu- ja Myyntityöntekijät	Vartijat
+Maanviljelijät, Metsätyöntekijät ym.	Puutarhurit, Kasvihuoneviljelijät ja -työntekijät
+Maanviljelijät, Metsätyöntekijät ym.	Liha- ja Lypsykarjankasvattajat sekä Muiden Kotieläinten Kasvattajat
+Maanviljelijät, Metsätyöntekijät ym.	Yhdistetyn Maanviljelyn ja Eläintenkasvatuksen Harjoittajat
+Maanviljelijät, Metsätyöntekijät ym.	Metsurit ja Metsätyöntekijät
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Määrittelemättömät Käsityöläiset
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Talonrakentajat
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Kirvesmiehet ja Rakennuspuusepät
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Rakennusten Viimeistelytyöntekijät (määrittelemättömät)
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Putkiasentajat
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Rakennusmaalarit ym.
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Ruiskumaalaajat ja -lakkaajat
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Valimotyöntekijät, Hitsaajat, Levysepät ym.
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Hitsaajat ja Kaasuleikkaajat
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Ohutlevysepät
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Työkaluntekijät ja Lukkosepät
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Koneasentajat ja -korjaajat
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Moottoriajoneuvojen Asentajat ja Korjaajat
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Käsityötuotteiden Valmistajat ja Hienomekaanikot
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Painopinnanvalmistajat
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Painajat
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Rakennussähköasentajat
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Autosähköasentajat
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Elektroniikka- ja Automaatiolaitteiden Asentajat ja Korjaajat
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Lihakauppias
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Leipurit ja Kondiittorit
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Puutavaran Käsittelijät, Puusepät ym.
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Huonekalupuusepät ym.
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Vaatturit, Pukuompelijat, Turkkurit ja Hatuntekijät
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Leikkaajat ja Mallimestarit
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Koru- ja Muut Tekstiiliompelijat
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Suutarit ym.
+Rakennus-, Korjaus- ja Valmistustyöntekijät	Luokittelijat ja Laaduntarkkailijat (pl. Ruoat ja Juomat)
+Prosessi- ja Kuljetustyöntekijät	Määrittelemättömät Koneenkäyttäjät
+Prosessi- ja Kuljetustyöntekijät	Prosessityöntekijät
+Prosessi- ja Kuljetustyöntekijät	Sähkö- ja Elektroniikkalaitteiden Kokoonpanijat
+Prosessi- ja Kuljetustyöntekijät	Muut Teollisuustuotteiden Kokoonpanijat
+Prosessi- ja Kuljetustyöntekijät	Henkilö-, Taksi- ja Pakettiautonkuljettajat
+Prosessi- ja Kuljetustyöntekijät	Linja-auton- ja Raitiovaununkuljettajat
+Prosessi- ja Kuljetustyöntekijät	Kuorma-auton ja Erikoisajoneuvojen Kuljettajat
+Prosessi- ja Kuljetustyöntekijät	Maa- ja Metsätaloustyökoneiden Kuljettajat
+Prosessi- ja Kuljetustyöntekijät	Maansiirtokoneiden ym. Kuljettajat
+Prosessi- ja Kuljetustyöntekijät	Nosturinkuljettajat
+Prosessi- ja Kuljetustyöntekijät	Kansimiehistö ym. Vesiliikenteen Työntekijät
+Muut Työntekijät	Muut Työntekijät
+Muut Työntekijät	Koti-, Hotelli- ja Toimistosiivoojat ym.
+Muut Työntekijät	Avustavat Puutarhatyöntekijät
+Muut Työntekijät	Valmistusalan Avustavat Työntekijät
+Muut Työntekijät	Rahdinkäsittelijät ja Varastotyöntekijät ym.
+Muut Työntekijät	Avustavat Keittiötyöntekijät
+Muut Työntekijät	Muut Muualla Luokittelemattomat Työntekijät

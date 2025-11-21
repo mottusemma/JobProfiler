@@ -1,0 +1,264 @@
+group	job
+Silahlı Kuvvetler	Silahlı Kuvvetlerdeki Meslekler
+Yöneticilik	Yöneticiler
+Yöneticilik	Kendi işinde çalışanlar
+Yöneticilik	Bölüm Başkanları (Belirtilmemiş)
+Yöneticilik	Girişimciler
+Yöneticilik	Kurul Üyeleri (Belirtilmemiş)
+Yöneticilik	Ekip Liderleri (Belirtilmemiş)
+Yöneticilik	Müdür Yardımcıları (Belirtilmemiş)
+Yöneticilik	Başka Yerde Sınıflandırılmamış Bakım Yöneticileri ve Danışmanları
+Yöneticilik	Üst Düzey Devlet Yetkilileri
+Yöneticilik	Finans Müdürleri
+Yöneticilik	İnsan Kaynakları Yöneticileri
+Yöneticilik	Başka Yerde Sınıflandırılmamış İş ve İdari Hizmetlerden Sorumlu Müdürler
+Yöneticilik	Satış ve Pazarlama Yöneticileri
+Yöneticilik	Halkla İlişkiler ve Reklamcılık Yöneticileri
+Yöneticilik	Araştırma ve Geliştirme Yöneticileri
+Yöneticilik	Üretim Müdürleri
+Yöneticilik	Şantiye Müdürleri
+Yöneticilik	Tedarik Zinciri Müdürleri
+Yöneticilik	Bilgi ve İletişim Teknolojileri Yöneticileri
+Yöneticilik	Çocuk Bakım Hizmetleri Müdürleri
+Yöneticilik	Sağlık Hizmetleri Müdürleri
+Yöneticilik	Sosyal Yardım Müdürleri
+Yöneticilik	Eğitim Yöneticileri
+Yöneticilik	Başka Yerde Sınıflandırılmamış Profesyonel Hizmetler Yöneticileri
+Yöneticilik	Otel Yöneticileri
+Yöneticilik	Restoran Yöneticileri
+Yöneticilik	Perakende ve Toptan Ticaret Yöneticileri
+Yöneticilik	Spor, Rekreasyon ve Kültür Merkezi Yöneticileri
+Yöneticilik	Başka Yerde Sınıflandırılmamış Servis Yöneticileri 
+Profesyoneller	Proje Yöneticileri (Belirtilmemiş)
+Profesyoneller	Profesyoneller (Belirtilmemiş)
+Profesyoneller	Analistler (Belirtilmemiş)
+Profesyoneller	Danışmanlar (Belirtilmemiş)
+Profesyoneller	Danışmanlar (Belirtilmemiş)
+Profesyoneller	Ürün Yöneticileri (Belirtilmemiş)
+Profesyoneller	Kalite Kontrol Uzmanları (Belirtilmemiş)
+Profesyoneller	Kimyagerler
+Profesyoneller	Matematikçi, Aktüer ve İstatistikçiler
+Profesyoneller	Biyolog, Botanikçi, Zoolog ve İlişkili Uzmanlıklar
+Profesyoneller	Tarımsal Üretim, Ormancılık ve Su Ürünleri Danışmanları (Sadece Ziraat Mühendisleri)
+Profesyoneller	Çevre Koruma Uzmanları
+Profesyoneller	Mühendislik Uzmanları (Belirtilmemiş) 
+Profesyoneller	Endüstri ve Üretim Mühendisleri
+Profesyoneller	İnşaat Mühendisleri
+Profesyoneller	Makine Mühendisleri
+Profesyoneller	Kimya Mühendisleri
+Profesyoneller	Başka Yerde Sınıflandırılmamış Mühendislik Uzmanları 
+Profesyoneller	Elektrik Mühendisleri
+Profesyoneller	Elektronik Mühendisleri
+Profesyoneller	Mimarlar
+Profesyoneller	Peyzaj Mimarları
+Profesyoneller	Ürün ve Giyim Tasarımcıları
+Profesyoneller	Şehir ve Ulaşım Plancıları
+Profesyoneller	Harita ve Kadastro Mühendisleri
+Profesyoneller	Grafik ve Multimedya Tasarımcıları
+Profesyoneller	Sağlık Uzmanları (Belirtilmemiş)
+Profesyoneller	Tıp Doktorları (Belirtilmemiş)
+Profesyoneller	Aile Hekimleri
+Profesyoneller	Uzman Hekimler
+Profesyoneller	Hemşireler
+Profesyoneller	Ebeler
+Profesyoneller	Veterinerler
+Profesyoneller	Diş Hekimleri
+Profesyoneller	Eczacılar
+Profesyoneller	Fizyoterapistler
+Profesyoneller	Odyolog ve Konuşma Terapistleri
+Profesyoneller	Başka Bir Yerde Sınıflandırılmamış Sağlık Profesyonelleri
+Profesyoneller	Öğretmenler (Belirtilmemiş)
+Profesyoneller	Akademisyenler
+Profesyoneller	Başka Bir Yerde Sınıflandırılmamış Araştırma Uzmanları
+Profesyoneller	Meslek Dersi Öğretmenleri
+Profesyoneller	Ortaöğretim Öğretmenleri
+Profesyoneller	İlkokul Öğretmenleri
+Profesyoneller	Okul Öncesi Öğretmenleri
+Profesyoneller	Dil, Müzik ve Sanat Alanındaki Diğer Öğretmenler (Hobi Okulları ve Özel Ders Verenler)
+Profesyoneller	Eğitim Yöntemleri Uzmanları
+Profesyoneller	Özel Eğitim Öğretmenleri
+Profesyoneller	Dil Öğretmenleri
+Profesyoneller	Başka Bir Yerde Sınıflandırılmamış Öğretim Uzmanları
+Profesyoneller	Başka Bir Yerde Sınıflandırılmamış Öğretim/Eğitim Uzmanları
+Profesyoneller	Muhasebeciler
+Profesyoneller	Finans ve Yatırım Danışmanları
+Profesyoneller	Finansal Analistler
+Profesyoneller	Yönetim ve Organizasyon Analistleri
+Profesyoneller	Politika ve Kamu Yönetimi Uzmanları
+Profesyoneller	Personel ve Kariyer Uzmanları
+Profesyoneller	Eğitim ve Personel Gelişimi Uzmanları
+Profesyoneller	Reklam ve Pazarlama Uzmanları
+Profesyoneller	Halkla İlişkiler Uzmanları
+Profesyoneller	Sistem Analistleri
+Profesyoneller	Yazılım Geliştiricileri
+Profesyoneller	Web ve Multimedya Geliştiricileri
+Profesyoneller	Başka Yerde Sınıflandırılmamış Yazılım ve Uygulama Geliştirici ve Analistleri (Test Uzmanları dahil)
+Profesyoneller	Veritabanı Tasarımcıları ve Yöneticileri
+Profesyoneller	Sistem Yöneticileri
+Profesyoneller	Başka yerde sınıflandırılmamış Veritabanı ve Ağ Profesyonelleri
+Profesyoneller	Avukatlar
+Profesyoneller	Hakimler
+Profesyoneller	Hukuk Profesyonelleri
+Profesyoneller	Arşivciler ve Küratörler
+Profesyoneller	Kütüphaneciler ve İlgili Bilgi Profesyonelleri
+Profesyoneller	Ekonomistler
+Profesyoneller	Psikologlar
+Profesyoneller	Sosyal Hizmet ve Psikolojik Danışma Profesyonelleri
+Profesyoneller	Din Hizmetleri Profesyonelleri
+Profesyoneller	Editörler (Belirtilmemiş)
+Profesyoneller	Yazarlar ve İlgili Yazın Profesyonelleri
+Profesyoneller	Gazeteciler
+Profesyoneller	Tercümanlar, Yorumcular ve Diğer Dilbilimciler
+Profesyoneller	Görsel Sanatçılar
+Profesyoneller	Müzisyenler, Şarkıcılar ve Besteciler
+Profesyoneller	Film, Sahne ve İlgili Yönetmenler ve Yapımcılar
+Profesyoneller	Oyuncular
+Teknisyenler	Yardımcı Profesyoneller (Belirtilmemiş)
+Teknisyenler	Teknisyenler (Belirtilmemiş)
+Teknisyenler	Vardiya Amirleri (Belirtilmemiş)
+Teknisyenler	Koordinatörler (Belirtilmemiş)
+Teknisyenler	Laboratuvar Teknisyenleri/Asistanları (Belirtilmemiş)
+Teknisyenler	Müfettişler/Denetçiler (Belirtilmemiş)
+Teknisyenler	Görevliler/Memurlar (Belirtilmemiş Görevliler/Memurlar)
+Teknisyenler	İnşaat Mühendisliği Teknisyenleri
+Teknisyenler	Elektrik Mühendisliği Teknisyenleri
+Teknisyenler	Makine Mühendisliği Teknisyenleri
+Teknisyenler	Teknik Ressamlar
+Teknisyenler	Madencilik, İmalat ve İnşaat Sorumluları
+Teknisyenler	Üretim Sorumluları
+Teknisyenler	İnşaat Saha Sorumluları
+Teknisyenler	Proses Kontrol Teknisyenleri
+Teknisyenler	Yaşam Bilimleri Teknisyenleri (Tıbbi Olmayan)
+Teknisyenler	Orman Teknisyenleri
+Teknisyenler	Gemi Mühendisleri
+Teknisyenler	Gemi Güverte Zabitanı ve Kılavuz Kaptanlar
+Teknisyenler	Uçak Pilotları ve İlgili Teknik Profesyoneller
+Teknisyenler	Hava Trafik Kontrolörleri
+Teknisyenler	Tıbbi Görüntüleme ve Terapötik Ekipman Teknisyenleri
+Teknisyenler	Tıbbi ve Patoloji Laboratuvar Teknisyenleri
+Teknisyenler	Tıbbi ve Diş Protez Teknisyenleri
+Teknisyenler	Diş Hekimi Asistanları ve Diş Sağlığı Terapistleri
+Teknisyenler	Optisyenler
+Teknisyenler	Fizyoterapi Teknisyenleri ve Masör/Masözler
+Teknisyenler	Tıbbi Asistanlar
+Teknisyenler	Çevre ve İş Sağlığı Denetçileri ve Yardımcıları
+Teknisyenler	Ambulans Çalışanları
+Teknisyenler	Kredi ve Tahsis Memurları
+Teknisyenler	Muhasebe Yardımcı Profesyonelleri
+Teknisyenler	İstatistik, Matematik ve İlgili Yardımcı Profesyoneller
+Teknisyenler	Eksperler ve Hasar Değerlendirme Uzmanları
+Teknisyenler	Sigorta Temsilcileri
+Teknisyenler	Ticari Satış Temsilcileri
+Teknisyenler	Satın Alma Uzmanları
+Teknisyenler	Gümrük Müşavirleri ve Nakliye Temsilcileri
+Teknisyenler	Konferans ve Etkinlik Planlayıcıları
+Teknisyenler	İstihdam Acenteleri ve Yükleniciler
+Teknisyenler	Emlak Danışmanları ve Gayrimenkul Yöneticileri
+Teknisyenler	Ofis Sorumluları
+Teknisyenler	İdari ve Yönetici Sekreterleri
+Teknisyenler	Devlet Düzenleme Uzman Yardımcıları (belirtilmemiş)
+Teknisyenler	Gümrük ve Sınır Denetçileri
+Teknisyenler	Polis Müfettişleri ve Dedektifler
+Teknisyenler	Devlet Düzenleyici Yardımcı Profesyonelleri (Başka Bir Yerde Sınıflandırılmayan)
+Teknisyenler	Hukuk ve İlgili Yardımcı Profesyoneller
+Teknisyenler	Sosyal Hizmet Yardımcı Profesyonelleri
+Teknisyenler	Spor Antrenörleri, Eğitmenleri ve Yetkilileri
+Teknisyenler	Fitness ve Rekreasyon Eğitmenleri ve Program Sorumluları
+Teknisyenler	Fotoğrafçılar
+Teknisyenler	İç Mimarlık ve Dekorasyoncular
+Teknisyenler	Şefler
+Teknisyenler	Diğer Sanat ve Kültür Yardımcı Profesyonelleri
+Teknisyenler	Bilgi ve İletişim Teknolojileri Operasyon Teknisyenleri
+Teknisyenler	Yayın ve Görsel-İşitsel Teknisyenler
+Büro Desteği	Genel ve Klavye Memurları (belirtilmemiş)
+Büro Desteği	Sekreterler (Genel)
+Büro Desteği	Veri Giriş Memurları
+Büro Desteği	Belirtilmemiş Müşteri Hizmetleri Memurları
+Büro Desteği	Banka Gişe Memurları
+Büro Desteği	Borç Tahsilatçıları ve İlgili Çalışanlar
+Büro Desteği	Seyahat Danışmanları ve Memurları
+Büro Desteği	Otel Resepsiyonistleri
+Büro Desteği	Bilgi / Danışma Memurları
+Büro Desteği	Resepsiyonistler (genel)
+Büro Desteği	Anket ve Pazar Araştırması Çalışanları
+Büro Desteği	Muhasebe ve Defter Tutma Memurları
+Büro Desteği	Bordro ve Özlük İşleri Görevlileri
+Büro Desteği	Depo ve Stok Görevlileri
+Büro Desteği	Ulaşım ve Taşıma İşleri Görevlileri
+Büro Desteği	Posta Taşıyıcıları ve Tasnif Memurları
+Büro Desteği	Evrak İşleme Görevlileri
+Büro Desteği	Personel İşleri Memurları
+Hizmet ve Satış	Seyahat Görevlileri (Kabin ve Servis Memurları)
+Hizmet ve Satış	Seyahat Rehberi
+Hizmet ve Satış	Aşçılar
+Hizmet ve Satış	Garsonlar
+Hizmet ve Satış	Kuaförler
+Hizmet ve Satış	Estetisyenler (Güzellik Uzmanları) ve İlgili Çalışanlar
+Hizmet ve Satış	Ofis, Otel ve Diğer Tesislerde Temizlik ve Kat Hizmetleri Sorumluları
+Hizmet ve Satış	Bina Sorumluları
+Hizmet ve Satış	Evcil Hayvan Kuaförleri ve Hayvan Bakım Çalışanları
+Hizmet ve Satış	Sürüş Eğitmenleri
+Hizmet ve Satış	Satış Görevlileri (Belirtilmemiş)
+Hizmet ve Satış	Stant ve Pazar Satış Elemanları
+Hizmet ve Satış	Mağaza Satış Asistanları
+Hizmet ve Satış	Kasiyerler ve Bilet Memurları
+Hizmet ve Satış	Çağrı Merkezi Satış Temsilcileri
+Hizmet ve Satış	Satış Elemanı (Başka Yerde Sınıflandırılmamış)
+Hizmet ve Satış	Çocuk Bakım Personeli
+Hizmet ve Satış	Öğretmen Yardımcıları
+Hizmet ve Satış	Sağlık Bakım Asistanları /Hasta Bakıcıları
+Hizmet ve Satış	Başka Yerde Sınıflandırılmamış Sağlık Hizmetleri Kişisel Bakım Çalışanları
+Hizmet ve Satış	İtfaiyeciler
+Hizmet ve Satış	Polis Memurları
+Hizmet ve Satış	Gardiyanlar
+Hizmet ve Satış	Güvenlik Görevlileri
+Tarım, Ormancılık ve Balıkçılık	Bahçıvanlar; Bahçe Bitkileri ve Fidan Yetiştiricileri
+Tarım, Ormancılık ve Balıkçılık	Hayvancılık ve Süt Ürünleri Üreticileri
+Tarım, Ormancılık ve Balıkçılık	Tarım ve Hayvancılık Üreticileri
+Tarım, Ormancılık ve Balıkçılık	Ormancılık ve İlgili İşçiler
+Zanaatkarlık ve İlgili Meslekler	Zanaatkarlar/Nitelikli İşçiler
+Zanaatkarlık ve İlgili Meslekler	İnşaat İşçileri
+Zanaatkarlık ve İlgili Meslekler	Marangozlar
+Zanaatkarlık ve İlgili Meslekler	İnşaat İşçileri (İnce İşleri Yapanlar)
+Zanaatkarlık ve İlgili Meslekler	Tesisatçılar
+Zanaatkarlık ve İlgili Meslekler	Boyacılar ve ilgili işçiler
+Zanaatkarlık ve İlgili Meslekler	Sprey Boyacılar ve Vernikçiler
+Zanaatkarlık ve İlgili Meslekler	Sac ve Yapısal Metal İşçileri, Kalıpçılar ve Kaynakçılar ile İlgili Çalışanlar
+Zanaatkarlık ve İlgili Meslekler	Kaynakçılar ve Alev Kesim İşçileri
+Zanaatkarlık ve İlgili Meslekler	Sac Metal İşçileri
+Zanaatkarlık ve İlgili Meslekler	Kalıpçılar ve İlgili İşçiler
+Zanaatkarlık ve İlgili Meslekler	Makine Mekanikleri ve Tamircileri
+Zanaatkarlık ve İlgili Meslekler	Motorlu Taşıt Mekanikleri ve Tamircileri
+Zanaatkarlık ve İlgili Meslekler	El Sanatları İşçileri
+Zanaatkarlık ve İlgili Meslekler	Baskı Öncesi Teknisyenleri
+Zanaatkarlık ve İlgili Meslekler	Matbaacılar
+Zanaatkarlık ve İlgili Meslekler	Elektrik Tesisatçıları
+Zanaatkarlık ve İlgili Meslekler	Otomotiv Elektrikçileri
+Zanaatkarlık ve İlgili Meslekler	Elektronik Teknisyenleri ve Servis Elemanları
+Zanaatkarlık ve İlgili Meslekler	Kasaplar
+Zanaatkarlık ve İlgili Meslekler	Fırıncılar ve Pastaneciler
+Zanaatkarlık ve İlgili Meslekler	Ahşap İşlemcileri, Marangozlar ve İlgili Çalışanlar
+Zanaatkarlık ve İlgili Meslekler	Marangozlar ve İlgili Çalışanlar
+Zanaatkarlık ve İlgili Meslekler	Terziler, Dikiciler, Kürkçüler ve Şapkacılar
+Zanaatkarlık ve İlgili Meslekler	Giyim ve İlgili Kalıpçı ile Kesim Elemanları
+Zanaatkarlık ve İlgili Meslekler	Dikiş, Nakış ve İlgili İşçiler
+Zanaatkarlık ve İlgili Meslekler	Ayakkabıcılar ve İlgili İşçiler
+Zanaatkarlık ve İlgili Meslekler	Ürün Sınıflandırıcıları ve Test Uzmanları (Gıda ve İçecek Hariç)
+Makine Operatörleri ve Montajcılar	Belirtilmemiş Operatörler
+Makine Operatörleri ve Montajcılar	Sabit Tesis ve Makine Operatörleri
+Makine Operatörleri ve Montajcılar	Elektrik-Elektronik Montaj Elemanları
+Makine Operatörleri ve Montajcılar	Montajcılar (Başka Yerde Sınıflandırılmamış)
+Makine Operatörleri ve Montajcılar	Araba, Taksi ve Minibüs Sürücüleri
+Makine Operatörleri ve Montajcılar	Otobüs ve Tramvay Sürücüleri
+Makine Operatörleri ve Montajcılar	Ağır Kamyon ve Tır Sürücüleri
+Makine Operatörleri ve Montajcılar	Tarım ve Ormancılık Mobil Tesis Operatörleri
+Makine Operatörleri ve Montajcılar	Toprak İşleme ve İlgili Makine Operatörleri
+Makine Operatörleri ve Montajcılar	Vinç, Kaldırma ve İlgili Makine Operatörleri
+Makine Operatörleri ve Montajcılar	Gemi Güverte Mürettebatı ve İlgili Çalışanlar
+Temel Meslekler	Temel Meslekler
+Temel Meslekler	Ev, Otel ve Ofis Temizlik Görevlileri ve Yardımcıları
+Temel Meslekler	Bahçe ve Bahçıvanlık İşçileri
+Temel Meslekler	İmalat İşçileri
+Temel Meslekler	Taşıma ve Depolama İşçileri
+Temel Meslekler	Mutfak Yardımcıları
+Temel Meslekler	Başka Yerde Sınıflandırılmamış Temel İşçiler 

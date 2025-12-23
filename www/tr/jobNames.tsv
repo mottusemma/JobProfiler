@@ -28,7 +28,7 @@ Yöneticilik	Otel Yöneticileri
 Yöneticilik	Restoran Yöneticileri
 Yöneticilik	Perakende ve Toptan Ticaret Yöneticileri
 Yöneticilik	Spor, Rekreasyon ve Kültür Merkezi Yöneticileri
-Yöneticilik	Başka Yerde Sınıflandırılmamış Servis Yöneticileri 
+Yöneticilik	Başka Yerde Sınıflandırılmamış Servis Yöneticileri
 Profesyoneller	Proje Yöneticileri (Belirtilmemiş)
 Profesyoneller	Profesyoneller (Belirtilmemiş)
 Profesyoneller	Analistler (Belirtilmemiş)
@@ -41,12 +41,12 @@ Profesyoneller	Matematikçi, Aktüer ve İstatistikçiler
 Profesyoneller	Biyolog, Botanikçi, Zoolog ve İlişkili Uzmanlıklar
 Profesyoneller	Tarımsal Üretim, Ormancılık ve Su Ürünleri Danışmanları (Sadece Ziraat Mühendisleri)
 Profesyoneller	Çevre Koruma Uzmanları
-Profesyoneller	Mühendislik Uzmanları (Belirtilmemiş) 
+Profesyoneller	Mühendislik Uzmanları (Belirtilmemiş)
 Profesyoneller	Endüstri ve Üretim Mühendisleri
 Profesyoneller	İnşaat Mühendisleri
 Profesyoneller	Makine Mühendisleri
 Profesyoneller	Kimya Mühendisleri
-Profesyoneller	Başka Yerde Sınıflandırılmamış Mühendislik Uzmanları 
+Profesyoneller	Başka Yerde Sınıflandırılmamış Mühendislik Uzmanları
 Profesyoneller	Elektrik Mühendisleri
 Profesyoneller	Elektronik Mühendisleri
 Profesyoneller	Mimarlar
@@ -113,63 +113,63 @@ Profesyoneller	Görsel Sanatçılar
 Profesyoneller	Müzisyenler, Şarkıcılar ve Besteciler
 Profesyoneller	Film, Sahne ve İlgili Yönetmenler ve Yapımcılar
 Profesyoneller	Oyuncular
-Teknisyenler	Yardımcı Profesyoneller (Belirtilmemiş)
-Teknisyenler	Teknisyenler (Belirtilmemiş)
-Teknisyenler	Vardiya Amirleri (Belirtilmemiş)
-Teknisyenler	Koordinatörler (Belirtilmemiş)
-Teknisyenler	Laboratuvar Teknisyenleri/Asistanları (Belirtilmemiş)
-Teknisyenler	Müfettişler/Denetçiler (Belirtilmemiş)
-Teknisyenler	Görevliler/Memurlar (Belirtilmemiş Görevliler/Memurlar)
-Teknisyenler	İnşaat Mühendisliği Teknisyenleri
-Teknisyenler	Elektrik Mühendisliği Teknisyenleri
-Teknisyenler	Makine Mühendisliği Teknisyenleri
-Teknisyenler	Teknik Ressamlar
-Teknisyenler	Madencilik, İmalat ve İnşaat Sorumluları
-Teknisyenler	Üretim Sorumluları
-Teknisyenler	İnşaat Saha Sorumluları
-Teknisyenler	Proses Kontrol Teknisyenleri
-Teknisyenler	Yaşam Bilimleri Teknisyenleri (Tıbbi Olmayan)
-Teknisyenler	Orman Teknisyenleri
-Teknisyenler	Gemi Mühendisleri
-Teknisyenler	Gemi Güverte Zabitanı ve Kılavuz Kaptanlar
-Teknisyenler	Uçak Pilotları ve İlgili Teknik Profesyoneller
-Teknisyenler	Hava Trafik Kontrolörleri
-Teknisyenler	Tıbbi Görüntüleme ve Terapötik Ekipman Teknisyenleri
-Teknisyenler	Tıbbi ve Patoloji Laboratuvar Teknisyenleri
-Teknisyenler	Tıbbi ve Diş Protez Teknisyenleri
-Teknisyenler	Diş Hekimi Asistanları ve Diş Sağlığı Terapistleri
-Teknisyenler	Optisyenler
-Teknisyenler	Fizyoterapi Teknisyenleri ve Masör/Masözler
-Teknisyenler	Tıbbi Asistanlar
-Teknisyenler	Çevre ve İş Sağlığı Denetçileri ve Yardımcıları
-Teknisyenler	Ambulans Çalışanları
-Teknisyenler	Kredi ve Tahsis Memurları
-Teknisyenler	Muhasebe Yardımcı Profesyonelleri
-Teknisyenler	İstatistik, Matematik ve İlgili Yardımcı Profesyoneller
-Teknisyenler	Eksperler ve Hasar Değerlendirme Uzmanları
-Teknisyenler	Sigorta Temsilcileri
-Teknisyenler	Ticari Satış Temsilcileri
-Teknisyenler	Satın Alma Uzmanları
-Teknisyenler	Gümrük Müşavirleri ve Nakliye Temsilcileri
-Teknisyenler	Konferans ve Etkinlik Planlayıcıları
-Teknisyenler	İstihdam Acenteleri ve Yükleniciler
-Teknisyenler	Emlak Danışmanları ve Gayrimenkul Yöneticileri
-Teknisyenler	Ofis Sorumluları
-Teknisyenler	İdari ve Yönetici Sekreterleri
-Teknisyenler	Devlet Düzenleme Uzman Yardımcıları (belirtilmemiş)
-Teknisyenler	Gümrük ve Sınır Denetçileri
-Teknisyenler	Polis Müfettişleri ve Dedektifler
-Teknisyenler	Devlet Düzenleyici Yardımcı Profesyonelleri (Başka Bir Yerde Sınıflandırılmayan)
-Teknisyenler	Hukuk ve İlgili Yardımcı Profesyoneller
-Teknisyenler	Sosyal Hizmet Yardımcı Profesyonelleri
-Teknisyenler	Spor Antrenörleri, Eğitmenleri ve Yetkilileri
-Teknisyenler	Fitness ve Rekreasyon Eğitmenleri ve Program Sorumluları
-Teknisyenler	Fotoğrafçılar
-Teknisyenler	İç Mimarlık ve Dekorasyoncular
-Teknisyenler	Şefler
-Teknisyenler	Diğer Sanat ve Kültür Yardımcı Profesyonelleri
-Teknisyenler	Bilgi ve İletişim Teknolojileri Operasyon Teknisyenleri
-Teknisyenler	Yayın ve Görsel-İşitsel Teknisyenler
+Teknisyenler ve Yardımcı Profesyoneller	Yardımcı Profesyoneller (Belirtilmemiş)
+Teknisyenler ve Yardımcı Profesyoneller	Teknisyenler (Belirtilmemiş)
+Teknisyenler ve Yardımcı Profesyoneller	Vardiya Amirleri (Belirtilmemiş)
+Teknisyenler ve Yardımcı Profesyoneller	Koordinatörler (Belirtilmemiş)
+Teknisyenler ve Yardımcı Profesyoneller	Laboratuvar Teknisyenleri/Asistanları (Belirtilmemiş)
+Teknisyenler ve Yardımcı Profesyoneller	Müfettişler/Denetçiler (Belirtilmemiş)
+Teknisyenler ve Yardımcı Profesyoneller	Görevliler/Memurlar (Belirtilmemiş Görevliler/Memurlar)
+Teknisyenler ve Yardımcı Profesyoneller	İnşaat Mühendisliği Teknisyenleri
+Teknisyenler ve Yardımcı Profesyoneller	Elektrik Mühendisliği Teknisyenleri
+Teknisyenler ve Yardımcı Profesyoneller	Makine Mühendisliği Teknisyenleri
+Teknisyenler ve Yardımcı Profesyoneller	Teknik Ressamlar
+Teknisyenler ve Yardımcı Profesyoneller	Madencilik, İmalat ve İnşaat Sorumluları
+Teknisyenler ve Yardımcı Profesyoneller	Üretim Sorumluları
+Teknisyenler ve Yardımcı Profesyoneller	İnşaat Saha Sorumluları
+Teknisyenler ve Yardımcı Profesyoneller	Proses Kontrol Teknisyenleri
+Teknisyenler ve Yardımcı Profesyoneller	Yaşam Bilimleri Teknisyenleri (Tıbbi Olmayan)
+Teknisyenler ve Yardımcı Profesyoneller	Orman Teknisyenleri
+Teknisyenler ve Yardımcı Profesyoneller	Gemi Mühendisleri
+Teknisyenler ve Yardımcı Profesyoneller	Gemi Güverte Zabitanı ve Kılavuz Kaptanlar
+Teknisyenler ve Yardımcı Profesyoneller	Uçak Pilotları ve İlgili Teknik Profesyoneller
+Teknisyenler ve Yardımcı Profesyoneller	Hava Trafik Kontrolörleri
+Teknisyenler ve Yardımcı Profesyoneller	Tıbbi Görüntüleme ve Terapötik Ekipman Teknisyenleri
+Teknisyenler ve Yardımcı Profesyoneller	Tıbbi ve Patoloji Laboratuvar Teknisyenleri
+Teknisyenler ve Yardımcı Profesyoneller	Tıbbi ve Diş Protez Teknisyenleri
+Teknisyenler ve Yardımcı Profesyoneller	Diş Hekimi Asistanları ve Diş Sağlığı Terapistleri
+Teknisyenler ve Yardımcı Profesyoneller	Optisyenler
+Teknisyenler ve Yardımcı Profesyoneller	Fizyoterapi Teknisyenleri ve Masör/Masözler
+Teknisyenler ve Yardımcı Profesyoneller	Tıbbi Asistanlar
+Teknisyenler ve Yardımcı Profesyoneller	Çevre ve İş Sağlığı Denetçileri ve Yardımcıları
+Teknisyenler ve Yardımcı Profesyoneller	Ambulans Çalışanları
+Teknisyenler ve Yardımcı Profesyoneller	Kredi ve Tahsis Memurları
+Teknisyenler ve Yardımcı Profesyoneller	Muhasebe Yardımcı Profesyonelleri
+Teknisyenler ve Yardımcı Profesyoneller	İstatistik, Matematik ve İlgili Yardımcı Profesyoneller
+Teknisyenler ve Yardımcı Profesyoneller	Eksperler ve Hasar Değerlendirme Uzmanları
+Teknisyenler ve Yardımcı Profesyoneller	Sigorta Temsilcileri
+Teknisyenler ve Yardımcı Profesyoneller	Ticari Satış Temsilcileri
+Teknisyenler ve Yardımcı Profesyoneller	Satın Alma Uzmanları
+Teknisyenler ve Yardımcı Profesyoneller	Gümrük Müşavirleri ve Nakliye Temsilcileri
+Teknisyenler ve Yardımcı Profesyoneller	Konferans ve Etkinlik Planlayıcıları
+Teknisyenler ve Yardımcı Profesyoneller	İstihdam Acenteleri ve Yükleniciler
+Teknisyenler ve Yardımcı Profesyoneller	Emlak Danışmanları ve Gayrimenkul Yöneticileri
+Teknisyenler ve Yardımcı Profesyoneller	Ofis Sorumluları
+Teknisyenler ve Yardımcı Profesyoneller	İdari ve Yönetici Sekreterleri
+Teknisyenler ve Yardımcı Profesyoneller	Devlet Düzenleme Uzman Yardımcıları (belirtilmemiş)
+Teknisyenler ve Yardımcı Profesyoneller	Gümrük ve Sınır Denetçileri
+Teknisyenler ve Yardımcı Profesyoneller	Polis Müfettişleri ve Dedektifler
+Teknisyenler ve Yardımcı Profesyoneller	Devlet Düzenleyici Yardımcı Profesyonelleri (Başka Bir Yerde Sınıflandırılmayan)
+Teknisyenler ve Yardımcı Profesyoneller	Hukuk ve İlgili Yardımcı Profesyoneller
+Teknisyenler ve Yardımcı Profesyoneller	Sosyal Hizmet Yardımcı Profesyonelleri
+Teknisyenler ve Yardımcı Profesyoneller	Spor Antrenörleri, Eğitmenleri ve Yetkilileri
+Teknisyenler ve Yardımcı Profesyoneller	Fitness ve Rekreasyon Eğitmenleri ve Program Sorumluları
+Teknisyenler ve Yardımcı Profesyoneller	Fotoğrafçılar
+Teknisyenler ve Yardımcı Profesyoneller	İç Mimarlık ve Dekorasyoncular
+Teknisyenler ve Yardımcı Profesyoneller	Şefler
+Teknisyenler ve Yardımcı Profesyoneller	Diğer Sanat ve Kültür Yardımcı Profesyonelleri
+Teknisyenler ve Yardımcı Profesyoneller	Bilgi ve İletişim Teknolojileri Operasyon Teknisyenleri
+Teknisyenler ve Yardımcı Profesyoneller	Yayın ve Görsel-İşitsel Teknisyenler
 Büro Desteği	Genel ve Klavye Memurları (belirtilmemiş)
 Büro Desteği	Sekreterler (Genel)
 Büro Desteği	Veri Giriş Memurları
@@ -261,4 +261,4 @@ Temel Meslekler	Bahçe ve Bahçıvanlık İşçileri
 Temel Meslekler	İmalat İşçileri
 Temel Meslekler	Taşıma ve Depolama İşçileri
 Temel Meslekler	Mutfak Yardımcıları
-Temel Meslekler	Başka Yerde Sınıflandırılmamış Temel İşçiler 
+Temel Meslekler	Başka Yerde Sınıflandırılmamış Temel İşçiler
